@@ -11,6 +11,10 @@
 ### G4
 * Main_B_14890_경사로
 > * 출처 : https://www.acmicpc.net/problem/14890
+### S1
+* Main_B_14891_톱니바퀴
+> * 출처 : https://www.acmicpc.net/problem/14891
+
 
 ## 2020-01-30
 ### S3
