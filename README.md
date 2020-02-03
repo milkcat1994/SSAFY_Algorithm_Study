@@ -11,6 +11,8 @@
 ### G5
 * Main_B_15684_사다리조작
 > * 출처 : https://www.acmicpc.net/problem/15684
+* Main_B_15686_치킨배달
+> * 출처 : https://www.acmicpc.net/problem/15686
 
 ## 2020-02-02
 ### G4
