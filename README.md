@@ -11,6 +11,8 @@
 ### G5
 * Main_B_15685_드래곤커브
 > * 출처 : https://www.acmicpc.net/problem/15685
+* Main_B_16234_인구이동
+> * 출처 : https://www.acmicpc.net/problem/16234
 
 ## 2020-02-03
 ### G5
