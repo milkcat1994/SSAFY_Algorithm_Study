@@ -11,6 +11,8 @@
 ### G5
 * Main_B_16235_나무재테크
 > * 출처 : https://www.acmicpc.net/problem/16235
+* Main_B_16236_아기상어
+> * 출처 : https://www.acmicpc.net/problem/16236
 
 ## 2020-02-04
 ### G5
