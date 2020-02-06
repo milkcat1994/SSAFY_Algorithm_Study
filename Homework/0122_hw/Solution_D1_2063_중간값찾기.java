@@ -1,14 +1,8 @@
-package p0122;
-
 import java.util.Scanner;
 
 //https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE
-/*
-   사용하는 클래스명이 Solution 이어야 하므로, 가급적 Solution.java 를 사용할 것을 권장합니다.
-   이러한 상황에서도 동일하게 java Solution 명령으로 프로그램을 수행해볼 수 있습니다.
- */
-//2063-D1 중간값찾기
-class Solution_D1_2063_중간값찾기_양지용
+
+class Solution_D1_2063_중간값찾기
 {	
 	final static int MAX_SCORE = 100;
 	public static void main(String[] args) {

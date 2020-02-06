@@ -2,7 +2,7 @@ package com.ssafy;
 
 import java.util.Scanner;
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1129&sca=2010
-class Main_J_1856_숫자사각형2_양지용 {
+class Main_J_1856_숫자사각형2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int ROW = sc.nextInt();

@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.lang.StringBuilder;
 
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2075&sca=2010
-class Main_J_1339_문자삼각형2_양지용 {
+class Main_J_1339_문자삼각형2 {
 	// 'A'에서 얼마큼 떨어져 있는지 알기 위해 나머지를 이용할 예정
     final static int diffAZ = 'Z' - 'A' + 1;
     

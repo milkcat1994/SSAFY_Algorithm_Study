@@ -1,16 +1,8 @@
-package p0122;
-
 import java.util.Scanner;
 import java.io.FileInputStream;
 
 //https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE
-/*
-   사용하는 클래스명이 Solution 이어야 하므로, 가급적 Solution.java 를 사용할 것을 권장합니다.
-   이러한 상황에서도 동일하게 java Solution 명령으로 프로그램을 수행해볼 수 있습니다.
- */
-//Solution_D2_1204_최빈수 구하기_양지용
-//1204-[S/W 문제해결 기본] 1일차 - 최빈수 구하기
-class Solution_D2_1204_최빈수구하기_양지용
+class Solution_D2_1204_최빈수구하기
 {
 	final static int STUDENT_NUMS = 1000;
 	final static int GRADE = 100;
@@ -19,9 +11,7 @@ class Solution_D2_1204_최빈수구하기_양지용
 		Scanner sc = new Scanner(System.in);
 		int T;
 		T=sc.nextInt();
-		/*
-		   여러 개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
-		*/
+		
 		int max;
 		int result;
 //		점수들의 갯수를 저장할 배열을 선언한다.

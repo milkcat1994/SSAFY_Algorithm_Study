@@ -3,8 +3,7 @@ package com.ssafy;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-//Main_J_1175_주사위던지기2_양지용
-public class Main_J_1175_주사위던지기2_양지용 {
+public class Main_J_1175_주사위던지기2 {
 	static int N, SUM;
 	// 선택된 주사위 값 저장
 	static int[] intArr;

@@ -3,7 +3,7 @@ package com.ssafy;
 import java.util.Scanner;
 
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030
-class Main_J_1692_곱셈_양지용 {
+class Main_J_1692_곱셈 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

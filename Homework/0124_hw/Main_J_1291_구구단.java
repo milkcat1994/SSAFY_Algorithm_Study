@@ -3,7 +3,7 @@ package com.ssafy;
 import java.util.Scanner;
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010
 
-class Main_J_1291_구구단_양지용 {
+class Main_J_1291_구구단 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StringBuilder sb = new StringBuilder();

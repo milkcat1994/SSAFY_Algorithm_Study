@@ -3,7 +3,7 @@ package com.ssafy;
 import java.util.Scanner;
 
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020
-class Main_J_1523_별삼각형1_양지용 {
+class Main_J_1523_별삼각형1 {
     public static void main(String[] args) throws Exception {
         
     	Scanner sc = new Scanner(System.in);

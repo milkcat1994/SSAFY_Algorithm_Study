@@ -3,7 +3,7 @@ package com.ssafy;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class Solution_D4_1210_Ladder1_양지용 {
+class Solution_D4_1210_Ladder1 {
     // 총 판 크기
     final static int BOARD_SIZE = 100;
 

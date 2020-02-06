@@ -3,7 +3,7 @@ package com.ssafy;
 import java.util.Scanner;
 
 //http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1338&sca=2020
-class Main_J_2074_홀수마방진_양지용 {
+class Main_J_2074_홀수마방진 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int N = sc.nextInt();
