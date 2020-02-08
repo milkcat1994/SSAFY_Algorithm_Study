@@ -11,6 +11,9 @@
 ### G4
 * Main_B_17140_이차원배열과연산
 > * 출처 : https://www.acmicpc.net/problem/17140
+### G5
+* Main_B_14502_연구소
+> * 출처 : https://www.acmicpc.net/problem/14502
 
 ## 2020-02-07
 ### G3
