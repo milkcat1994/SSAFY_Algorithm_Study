@@ -8,6 +8,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-07
+### G3
+* Main_B_17143_낚시왕
+> * 출처 : https://www.acmicpc.net/problem/17143
 ### S4
 * Main_B_14501_퇴사
 > * 출처 : https://www.acmicpc.net/problem/14501
