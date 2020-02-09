@@ -11,6 +11,9 @@
 ### G4
 * Main_B_17140_연구소3
 > * 출처 : https://www.acmicpc.net/problem/17142
+### G5
+* Main_B_17779_게리맨더링2
+> * 출처 : https://www.acmicpc.net/problem/17779
 ### B2
 * Main_B_13458_시험감독
 > * 출처 : https://www.acmicpc.net/problem/13458
