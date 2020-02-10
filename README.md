@@ -15,6 +15,11 @@
 #### 탐욕알고리즘
 * Main_J_1828_냉장고
 > * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&sca=3050
+### D3
+* Solution_D3_1873_상호의배틀필드
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc
+
+
 
 ## 2020-02-09
 ### G4
