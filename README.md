@@ -11,6 +11,10 @@
 ### G3
 * Main_B_17822_원판돌리기
 > * 출처 : https://www.acmicpc.net/problem/17822
+### Intermediate Coder
+#### 탐욕알고리즘
+* Main_J_1828_냉장고
+> * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&sca=3050
 
 ## 2020-02-09
 ### G4
