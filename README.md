@@ -1,10 +1,9 @@
 # SSAFY_Algorithm_Study
 ## 파일 명명 규칙
 * [Class이름]/사이트or난이도/문제번호/문제이름
-* Class이름 : 해당 사이트에서 사용되는 Class명
-* 사이트 {J : 정보올림피아드, B : 백준, Dx : SWExpert}
+* Class이름 : {Solution : SWExpert, Main : 백준, 정보올림피아드}
+* 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
-* 정보올림피아드, 백준의 경우 소제목에 난이도를 따로 명시한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 
