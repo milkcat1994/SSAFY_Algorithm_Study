@@ -9,6 +9,9 @@
 
 
 ## 2020-02-11
+### G5
+* Main_B_17471_게리맨더링
+> * 출처 : https://www.acmicpc.net/problem/17471
 ### D4
 * Solution_D4_1258_행렬찾기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN
