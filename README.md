@@ -7,6 +7,11 @@
 * 정보올림피아드, 백준의 경우 소제목에 난이도를 따로 명시한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-02-11
+### D4
+* Solution_D4_1258_행렬찾기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN
+
 ## 2020-02-10
 ### G3
 * Main_B_17822_원판돌리기
