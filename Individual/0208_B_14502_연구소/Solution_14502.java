@@ -14,8 +14,6 @@ import java.util.StringTokenizer;
  * 빈칸갯수 - 퍼진 virus갯수 -3(새롭게 설치된 벽)
  */
 
-//출력 : 안전영역의 최대 크기를 출력
-
 // 출처 : https://www.acmicpc.net/problem/14502
 public class Solution_14502 {
 	//지도 크기 N,M

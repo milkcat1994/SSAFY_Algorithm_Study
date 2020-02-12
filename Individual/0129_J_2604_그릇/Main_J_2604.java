@@ -1,8 +1,11 @@
-package com.ssafy;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
  
+/*
+ * -그릇-
+ * 1. 이전 괄호 상태에 따라 10을 더할지 5를 더할지 판단하는 문제
+ */
+
 // 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1865&sca=2050
 public class Main_J_2604_그릇 {
     public static void main(String[] args) throws Exception {

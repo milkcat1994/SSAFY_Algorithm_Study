@@ -4,19 +4,13 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-/*1 ≤ N ≤ 10
-1 ≤ M ≤ N2
-1 ≤ K ≤ 1,000
-1 ≤ A[r][c] ≤ 100
-1 ≤ 입력으로 주어지는 나무의 나이 ≤ 10
-입력으로 주어지는 나무의 위치는 모두 서로 다름
-*/
-
 /*
- * -출력-
- * 첫째 줄에 K년이 지난 후 살아남은 나무의 수를 출력
+ * -나무 재테크-
+ * 1. 각 위치마다 나무의 나이를 Deque로 설정하였다.
+ * └──새로운 나무는 first로 죽는 나무는 end로 더해주고나 빼준다.
+ * 2. 봄,여름을 한번에 가을,겨울을 한번에 처리하였다.
  */
-//5:25-43 6:24 8:00
+
 // 출처 : https://www.acmicpc.net/problem/16235
 public class Solution_16235 {
 	static int[][] addInfo;

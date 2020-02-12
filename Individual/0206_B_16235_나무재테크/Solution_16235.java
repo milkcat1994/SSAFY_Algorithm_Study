@@ -9,19 +9,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-/*1 ≤ N ≤ 10
-1 ≤ M ≤ N2
-1 ≤ K ≤ 1,000
-1 ≤ A[r][c] ≤ 100
-1 ≤ 입력으로 주어지는 나무의 나이 ≤ 10
-입력으로 주어지는 나무의 위치는 모두 서로 다름
-*/
-
 /*
- * -출력-
- * 첫째 줄에 K년이 지난 후 살아남은 나무의 수를 출력
+ * -나무재테크-
  */
-//5:25-43 6:24 8:00
+
 // 출처 : https://www.acmicpc.net/problem/16235
 public class Solution_16235 {
 	static int[][] addInfo;

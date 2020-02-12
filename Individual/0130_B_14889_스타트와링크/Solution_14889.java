@@ -2,6 +2,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/*
+ * -스타트와 링크-
+ * 1. A팀은 1번이 무조건 들어가는 전제로 중복을 뽑지 않는다.
+ * 2. 현재 뽑은 번호 뒤부터 확인하며, 뽑거나 뽑지 않고 다음 번호를 뽑는다.
+ * 3. 절반의 사람을 뽑았다면 selected 배열을 통해 1팀인지 2팀인지 확인하고 각각의 합을 구해준다.
+ * └──A_ij + A_ji를 구해야 함으로 미리 두개를 합쳐 배열을 구성해놓는다면 최종 연산은 절반이 될 것이다.
+ */
+
 // 출처 : https://www.acmicpc.net/problem/14889
 public class Solution_14889 {
 	static int BOARD_SIZE;

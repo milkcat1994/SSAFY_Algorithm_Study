@@ -11,30 +11,10 @@
 * Main_B_3190_뱀
 > * 출처 : https://www.acmicpc.net/problem/3190
 
-## 2020-02-11
-### G5
-* Main_B_17471_게리맨더링
-> * 출처 : https://www.acmicpc.net/problem/17471
-### D4
-* Solution_D4_1258_행렬찾기
-> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN
-* Solution_D4_1861_정사각형방
-> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc
-
 ## 2020-02-10
 ### G3
 * Main_B_17822_원판돌리기
 > * 출처 : https://www.acmicpc.net/problem/17822
-### Intermediate Coder
-#### 탐욕알고리즘
-* Main_J_1828_냉장고
-> * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&sca=3050
-### D3
-* Solution_D3_1873_상호의배틀필드
-> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc
-### D4
-* Solution_D4_4408_자기방으로 돌아가기
-> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8
 
 ## 2020-02-09
 ### G4
@@ -115,33 +95,3 @@
 ### G5
 * Main_B_14503_로봇청소기
 > * 출처 : https://www.acmicpc.net/problem/14503
-
-## 2020-01-24
-### Beginner Coder
-#### 도형만들기1
-* Main_J_1291_구구단
-* Main_J_1341_구구단2
-* Main_J_1303_숫자사각형1
-* Main_J_1856_숫자사각형2
-* Main_J_1304_숫자사각형3
-* Main_J_2046_숫자사각형4
-* Main_J_1307_문자사각형1
-* Main_J_1314_문자사각형2
-* Main_J_1338_문자삼각형1
-* Main_J_1338_문자삼각형2
-#### 도형만들기2
-* Main_J_1523_별삼각형1
-* Main_J_1641_숫자삼각형
-* Main_J_1495_대각선지그재그
-* Main_J_2071_파스칼삼각형
-* Main_J_2074_홀수마방진
-#### 수학1
-* Main_J_1692_곱셈
-* Main_J_1430_숫자의개수
-
-## 2020-01-23
-* Solution_D4_1210_Ladder
-
-## 2020-01-22
-* Solution_D1_2063_중간값찾기
-* Solution_D2_1204_최빈수구하기

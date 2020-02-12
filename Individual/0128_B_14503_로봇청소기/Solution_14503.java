@@ -1,7 +1,14 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// ÃâÃ³ : https://www.acmicpc.net/problem/14503
+/*
+ * -ë¡œë´‡ì²­ì†Œê¸°-
+ * 1. í˜„ì¬ìœ„ì¹˜ë¥¼ ì²­ì†Œí•œë’¤ ì™¼ìª½ìœ¼ë¡œ ë°©í–¥ì„ í‹€ì–´ê°€ë©° í•´ë‹¹ ë°©í–¥ìœ¼ë¡œ ì²­ì†Œ í•  ìˆ˜ ìˆëŠ”ì§€ í™•ì¸í•œë‹¤.
+ * 2. ì²­ì†Œë¥¼ í–ˆë‹¤ë©´ 2ë¡œ ì±„ì›Œì„œ ë²½ê³¼ êµ¬ë¶„í•œë‹¤.
+ * 3. ë„¤ë°©í–¥ ëª¨ë‘ ì²­ì†Œ ë˜ì–´ìˆë‹¤ë©´ ì› ë°©í–¥ì—ì„œ í›„ì§„ì„ í•œë’¤ 1ë²ˆë¶€í„° ì¬ì‹¤í–‰ í•œë‹¤.
+ */
+
+// ì¶œì²˜ : https://www.acmicpc.net/problem/14503
 public class Solution_14503 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -10,24 +17,24 @@ public class Solution_14503 {
 		String tempString;
 		
 		char[][] board;
-		// boardÀÇ °¡·Î, ¼¼·Î Size
+		// boardì˜ ê°€ë¡œ, ì„¸ë¡œ Size
 		int rowSize;
 		int colSize;
 		
-		// ·Îº¿ÀÇ ÇöÀç À§Ä¡, ¹æÇâ
+		// ë¡œë´‡ì˜ í˜„ì¬ ìœ„ì¹˜, ë°©í–¥
 		int curRow;	int curCol;
-		// °¡°íÀÚ ÇÏ´Â À§Ä¡
+		// ê°€ê³ ì í•˜ëŠ” ìœ„ì¹˜
 		int postRow; int postCol;
-		// 0:»ó, 2:ÇÏ, 1:¿ì, 3:ÁÂ
+		// 0:ìƒ, 2:í•˜, 1:ìš°, 3:ì¢Œ
 		int curDir; // 
-		// curDir¿¡ µû¸¥ ÀÌµ¿ÇÔ¼ö
+		// curDirì— ë”°ë¥¸ ì´ë™í•¨ìˆ˜
 		int[] dRow = {-1, 0, 1, 0};
 		int[] dCol = {0, 1, 0, -1};
 		
-		// Ã»¼ÒÇÑ ±¸°£
+		// ì²­ì†Œí•œ êµ¬ê°„
 		int result=1;
 		
-		// ¼¼·Î, °¡·Î Å©±â ¹Ş±â
+		// ì„¸ë¡œ, ê°€ë¡œ í¬ê¸° ë°›ê¸°
 		tempStringArr = br.readLine().split(" ");
 		rowSize = Integer.parseInt(tempStringArr[0]);
 		colSize = Integer.parseInt(tempStringArr[1]);
@@ -39,7 +46,7 @@ public class Solution_14503 {
 		curCol = Integer.parseInt(tempStringArr[1]);
 		curDir = Integer.parseInt(tempStringArr[2]);
 		
-		// ¹è¿­ ÃÊ±âÈ­
+		// ë°°ì—´ ì´ˆê¸°í™”
 		for(int row = 0; row < rowSize; ++row) {
 			tempString = br.readLine();
 			for(int col = 0; col < colSize; ++col) {
@@ -51,44 +58,44 @@ public class Solution_14503 {
 		boolean needBack = false;
 		boolean flag = true;
 		
-		// ±âº» À§Ä¡ Ã»¼Ò
+		// ê¸°ë³¸ ìœ„ì¹˜ ì²­ì†Œ
 		board[curRow][curCol] = '2';
 		while(flag) {
-			// ÇöÀç À§Ä¡ Ã»¼ÒÇÏ±â
+			// í˜„ì¬ ìœ„ì¹˜ ì²­ì†Œí•˜ê¸°
 			for(int i = 0; i < 4; ++i) {
-				// ÀÏ´Ü ¹æÇâÀüÈ¯ ÇÏ±â
+				// ì¼ë‹¨ ë°©í–¥ì „í™˜ í•˜ê¸°
 				curDir = (curDir+3)%4;
 				postRow = curRow+dRow[curDir];
 				postCol = curCol+dCol[curDir];
-				// ¿ŞÂÊ¹æÇâÀÌ Ã»¼Ò°¡ µÇ¾îÀÖÁö ¾Ê´Ù¸é À§Ä¡ ÀÌµ¿ÇÏ°í Ã»¼ÒÇÏ±â
+				// ì™¼ìª½ë°©í–¥ì´ ì²­ì†Œê°€ ë˜ì–´ìˆì§€ ì•Šë‹¤ë©´ ìœ„ì¹˜ ì´ë™í•˜ê³  ì²­ì†Œí•˜ê¸°
 				if(board[postRow][postCol] == '0') {
 					curRow = postRow;
 					curCol = postCol;
 					++result;
-					//Ã»¼Ò Çß´Ù¸é 2·Î Ã¤¿ì±â
+					//ì²­ì†Œ í–ˆë‹¤ë©´ 2ë¡œ ì±„ìš°ê¸°
 					board[curRow][curCol] = '2';
 					
 					break;
 				}
-				// ³× ¹æÇâ ¸ğµÎ Ã»¼Ò°¡ µÇ¾îÀÖ´Ù¸é needBack = true;
+				// ë„¤ ë°©í–¥ ëª¨ë‘ ì²­ì†Œê°€ ë˜ì–´ìˆë‹¤ë©´ needBack = true;
 				if(i == 3) {
 					needBack = true;
 				}
 			}
 			// end for
 
-			// ³× ¹æÇâ ¸ğµÎ Ã»¼Ò°¡ µÇ¾îÀÖ´Ù¸é ¿ø·¡ ¹æÇâÀ¸·Î ÇÑ Ä­ ÈÄÁø
+			// ë„¤ ë°©í–¥ ëª¨ë‘ ì²­ì†Œê°€ ë˜ì–´ìˆë‹¤ë©´ ì›ë˜ ë°©í–¥ìœ¼ë¡œ í•œ ì¹¸ í›„ì§„
 			if(needBack) {
 				postRow = curRow-dRow[curDir];
 				postCol = curCol-dCol[curDir];
 				
-				// ÈÄÁø ¸øÇÒ °æ¿ì¿¡´Â ÀÛµ¿ ¸ØÃß±â
-				// ÇØ´ç ÁÂÇ¥ º®ÀÏ°æ¿ì
+				// í›„ì§„ ëª»í•  ê²½ìš°ì—ëŠ” ì‘ë™ ë©ˆì¶”ê¸°
+				// í•´ë‹¹ ì¢Œí‘œ ë²½ì¼ê²½ìš°
 				if(board[postRow][postCol] == '1') {
 					System.out.println(result);
 					flag = false;
 				}
-				// '0' or '2' ÀÏ°æ¿ì ÀÌµ¿
+				// '0' or '2' ì¼ê²½ìš° ì´ë™
 				else {
 					needBack = false;
 					curRow = postRow;

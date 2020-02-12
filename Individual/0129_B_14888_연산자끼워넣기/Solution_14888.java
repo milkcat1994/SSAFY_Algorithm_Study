@@ -1,6 +1,13 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/*
+ * -연산자 끼워넣기-
+ * 1. 각 연산자의 개수를 미리 저장하고
+ * 2. calculate 함수에서 각 연산자를 하나씩 꺼내가며 최종 값을 구해나간다.
+ * 3. 모든 연산자를 선택했다면 최소, 최대값을 갱신한다.
+ */
+
 //출처 : https://www.acmicpc.net/problem/14888
 public class Solution_14888 {
 	// 출력할 max값, min값

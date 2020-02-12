@@ -5,6 +5,15 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/*
+ * -아기상어-
+ * 1. 아기상어가 먹을 수 있는 물고기를 BFS를 통해 찾았다.
+ * 2. 그 중 가장 왼쪽 위에 있는 물고기는 List를 순회하며 찾았다.
+ * 3. 먹었다면 해당 자리로 이동하고 원래 자리는 빈곳으로 만들어준다.
+ * 4. 방문여부 배열을 초기화 해주지 않고 .clone해 넣어 메모리를 많이 사용한다.
+ * 5. 상어의 행동은 class로 표현하였다.
+ */
+
 // 출처 : https://www.acmicpc.net/problem/16236
 public class Solution_16236 {
 	static int N;
