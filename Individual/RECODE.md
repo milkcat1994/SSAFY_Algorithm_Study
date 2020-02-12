@@ -10,6 +10,8 @@
 ### S1
 * Main_B_3190_뱀
 > * 출처 : https://www.acmicpc.net/problem/3190
+* Main_B_1697_숨바꼭질
+> * 출처 : https://www.acmicpc.net/problem/1697
 
 ## 2020-02-10
 ### G3
