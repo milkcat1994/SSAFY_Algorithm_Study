@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 /*
- * -행렬-찾기-
+ * -행렬찾기-
  * 1. 이중 for문 이용하여 배열을 모두 탐색할 것이다.
  * 2. 탐색하던 중 방문하지 않았으며, 해당 좌표값이 1이상이라면 사각형의 정보를 담기 위해 findArea()함수 실행
  * 3. 해당 사각형의 행과 열, 넓이 정보를 저장하였다면 구현한 Comparable을 통해 우선순위 큐에 넣기

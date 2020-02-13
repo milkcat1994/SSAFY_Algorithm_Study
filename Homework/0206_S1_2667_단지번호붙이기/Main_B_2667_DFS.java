@@ -3,7 +3,13 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main_B_2667_단지번호붙이기_DFS {
+/*
+ * -단지번호붙이기-
+ * DFS이용한 풀이(재귀 사용)
+ */
+
+//출처 : https://www.acmicpc.net/problem/2667
+public class Main_B_2667_DFS {
 	static int[] drow = {-1, 1, 0, 0};
 	static int[] dcol = {0, 0, -1, 1};
 	static char[][] board;

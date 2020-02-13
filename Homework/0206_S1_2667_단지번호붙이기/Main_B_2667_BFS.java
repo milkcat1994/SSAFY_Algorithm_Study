@@ -5,7 +5,13 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class Main_B_2667_단지번호붙이기_BFS {
+/*
+ * -단지번호붙이기-
+ * BFS이용한 풀이
+ */
+
+//출처 : https://www.acmicpc.net/problem/2667
+public class Main_B_2667_BFS {
 	static int[] drow = {-1, 1, 0, 0};
 	static int[] dcol = {0, 0, -1, 1};
 	
