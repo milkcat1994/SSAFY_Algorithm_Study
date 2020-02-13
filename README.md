@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-13
+### G5
+* Main_B_14500_테트로미노
+> * 출처 : https://www.acmicpc.net/problem/14500
 ### S3
 * Main_B_10974_모든순열
 > * 출처 : https://www.acmicpc.net/problem/10974
