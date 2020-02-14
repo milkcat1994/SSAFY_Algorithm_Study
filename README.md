@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-02-14
+### Advanced Coder
+* Main_J_1863_종교
+> * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1136&sca=99&sfl=wr_hit&stx=1863
+
 ## 2020-02-13
 ### G5
 * Main_B_14500_테트로미노
