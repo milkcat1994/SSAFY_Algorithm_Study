@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-14
+### S1
+* Main_B_7576_토마토
+> * 출처 : https://www.acmicpc.net/problem/7576
 ### Advanced Coder
 * Main_J_1863_종교
 > * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1136&sca=99&sfl=wr_hit&stx=1863
