@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-14
+### G2
+* Main_B_3109_빵집
+> * 출처 : https://www.acmicpc.net/problem/3109
 ### S1
 * Main_B_7576_토마토
 > * 출처 : https://www.acmicpc.net/problem/7576
