@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-17
+### G5
+* Main_B_1759_암호 만들기
+> * 출처 : https://www.acmicpc.net/problem/1759
 ### S2
 * Main_B_10971_외판원 순회2
 > * 출처 : https://www.acmicpc.net/problem/10971
