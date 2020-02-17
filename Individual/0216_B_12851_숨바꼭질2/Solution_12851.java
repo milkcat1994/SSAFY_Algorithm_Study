@@ -1,8 +1,10 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
-import java.util.Stack;
 import java.util.StringTokenizer;
 
 /*
@@ -14,14 +16,15 @@ import java.util.StringTokenizer;
 
 //출처 : https://www.acmicpc.net/problem/12851
 public class Solution_12851 {
-	static boolean[] isVisited = new boolean[130001];
+	static final int LIMIT = 100000;
+	static boolean[] isVisited = new boolean[LIMIT+1];
 	
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		StringBuilder sb = new StringBuilder();
 		
-		int N,K,qs,cr,nr,result = 0,time=0;
+		int N,K,qs,cp,np,result=0,time=0;
 		N = Integer.parseInt(st.nextToken());
 		K = Integer.parseInt(st.nextToken());
 		
@@ -31,7 +34,9 @@ public class Solution_12851 {
 		}
 		
 		Queue<Integer> que = new LinkedList<Integer>();
-		Stack<Integer> stack = new Stack<Integer>();
+		List<Integer> list = new ArrayList<Integer>();
+		Iterator<Integer> iter;
+		
 		que.offer(N);
 		boolean arrive = false;
 		isVisited[N] = true;
@@ -39,53 +44,45 @@ public class Solution_12851 {
 		while(!que.isEmpty()) {
 			qs = que.size();
 			while(--qs >= 0) {
-				cr = que.poll();
-				stack.push(cr);
+				cp = que.poll();
+				list.add(cp);
 				
 				//현재 위치가 작을때만 2배,+1,-1 확인
-				if(cr < K) {
-					//*2
-					nr = cr*2;
-					if(!isOut(nr)) {
-						if(nr == K) {
-							result++;
-							arrive = true;
+				if(cp < K) {
+					for(int i = 0; i < 3; ++i) {
+						switch (i) {
+						case 0:	np = cp*2;
+							break;
+						case 1:	np = cp+1;
+							break;
+						case 2:
+						default:
+							np = cp-1;
+							break;
 						}
-						else
-							que.offer(nr);
-					}
-					//+1
-					nr = cr+1;
-					if(!isOut(nr)) {
-						if(nr == K) {
-							result++;
-							arrive = true;
+						
+						if(!isOut(np)) {
+							if(np == K) {
+								result++;
+								arrive = true;
+							}
+							else
+								que.offer(np);
 						}
-						else
-							que.offer(nr);
-					}
-					//-1
-					nr = cr-1;
-					if(!isOut(nr)) {
-						if(nr == K) {
-							result++;
-							arrive = true;
-						}
-						else
-							que.offer(nr);
+						
 					}
 				}
 				//현재 위치 크다면 -1이 최선
 				else {
 					//-1
-					nr = cr-1;
-					if(!isOut(nr)) {
-						if(nr == K) {
+					np = cp-1;
+					if(!isOut(np)) {
+						if(np == K) {
 							result++;
 							arrive = true;
 						}
 						else
-							que.offer(nr);
+							que.offer(np);
 					}
 				}
 			} //end while(--qsize)
@@ -98,17 +95,17 @@ public class Solution_12851 {
 			}
 			
 			//지금 시간에 방문했던 곳 한꺼번에 표시
-			for(Integer in : stack) {
-				isVisited[in] = true;
-			}
-			stack.clear();
+			iter = list.iterator();
+			while(iter.hasNext())
+				isVisited[iter.next()] = true;
+			list.clear();
 			
 		} //end while(!que.isEmpty())
 	}
 	
 	//너무 밖으로 나가거나 방문한곳이라면 이동x
 	public static boolean isOut(int pos) {
-		if(pos<0 || pos > 130000 || isVisited[pos])
+		if(pos<0 || pos > LIMIT || isVisited[pos])
 			return true;
 		return false;
 	}
