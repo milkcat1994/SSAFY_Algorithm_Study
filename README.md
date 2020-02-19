@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-02-19
+### D3
+* Solution_D3_1244_최대상금
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf
+
 ## 2020-02-18
 ### D4
 * Solution_D4_1767_프로세서연결하기
