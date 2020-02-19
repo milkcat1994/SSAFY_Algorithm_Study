@@ -12,6 +12,9 @@
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf
 
 ## 2020-02-18
+### G2
+* Main_B_5373_큐빙
+> * 출처 : https://www.acmicpc.net/problem/5373
 ### D4
 * Solution_D4_1767_프로세서연결하기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf
