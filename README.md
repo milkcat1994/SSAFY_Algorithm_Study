@@ -18,6 +18,9 @@
 ### G5
 * Main_B_14499_주사위굴리기
 > * 출처 : https://www.acmicpc.net/problem/14499
+### S3
+* Main_B_2630_색종이만들기
+> * 출처 : https://www.acmicpc.net/problem/2630
 
 ## 2020-02-19
 ### D3
