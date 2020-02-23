@@ -65,7 +65,7 @@ public class Main_B_G5_1753_최단경로 {
 
 		vertex = new Vertex[V+1];
 		isVisted = new boolean[V+1];
-		for(int i = 1; i <= V; ++i) {
+		for(int i = 0; i <= V; ++i) {
 			edge.add(new ArrayList<Edge>());
 			vertex[i] = new Vertex(i);
 		}
