@@ -10,6 +10,9 @@
 ### G5
 * Main_B_G5_1753_최단경로
 > * 출처 : https://www.acmicpc.net/problem/1753
+### G5
+* Main_B_G5_1916_최소비용구하기
+> * 출처 : https://www.acmicpc.net/problem/1916
 
 ## 2020-02-21
 ### G4
