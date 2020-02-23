@@ -11,13 +11,14 @@ import java.util.StringTokenizer;
  * 3. 연결된 정점 모두 확인 했다면 현재 정점은 방문했다고 표시
  * 4. 우선순위 큐에서 가장 작은 이동거리 값을 가지는 정점 부터 확인
  * 5. 해당 정점을 이용하여 1번부터 반복
+ * 6. 객체를 PQ에 계속 담지말고 거리 정보는 배열로 따로 두어 하니 바로 되었음
  */
 
 //출처 : https://www.acmicpc.net/problem/1753
 public class Main_B_G5_1753_최단경로 {
 	static int V,E;
 	static ArrayList<ArrayList<Edge>> edge = new ArrayList<ArrayList<Edge>>();
-	static Vertex[] vertex;
+	static int[] dist;
 	static boolean[] isVisted;
 	final static int MAX_VALUE = 7654321;
 	
@@ -34,9 +35,9 @@ public class Main_B_G5_1753_최단경로 {
 		//현재 정점 번호, 자신의 거리
 		int u,w;
 		
-		Vertex(int u){
+		Vertex(int u, int w){
 			this.u = u;
-			this.w = MAX_VALUE;
+			this.w = w;
 		}
 		
 		public boolean setMinW(int w) {
@@ -62,14 +63,14 @@ public class Main_B_G5_1753_최단경로 {
 		//시작 index
 		int sIndex = Integer.parseInt(br.readLine());
 		int u,v,w;
-
-		vertex = new Vertex[V+1];
+		
+		dist = new int[V+1];
 		isVisted = new boolean[V+1];
 		for(int i = 0; i <= V; ++i) {
 			edge.add(new ArrayList<Edge>());
-			vertex[i] = new Vertex(i);
+			dist[i] = MAX_VALUE;
 		}
-		vertex[sIndex].w = 0;
+		dist[sIndex] = 0;
 		
 		for(int e = 0; e < E; ++e) {
 			st = new StringTokenizer(br.readLine(), " ");
@@ -80,7 +81,7 @@ public class Main_B_G5_1753_최단경로 {
 		}
 		
 		PriorityQueue<Vertex> pq = new PriorityQueue<Vertex>();
-		pq.offer(vertex[sIndex]);
+		pq.offer(new Vertex(sIndex,0));
 		
 		//해당 vertex와 연결된 좌표 값 갱신
 		Vertex cv;
@@ -88,18 +89,19 @@ public class Main_B_G5_1753_최단경로 {
 			cv = pq.poll();
 			if(isVisted[cv.u])
 				continue;
-			
 			for(Edge te : edge.get(cv.u)) {
 				//갱신이 된다면 갱신하고 해당 좌표 넣기
-				if(vertex[te.v].setMinW(cv.w+te.w))
-					pq.offer(vertex[te.v]);
+				if(dist[te.v] > dist[cv.u]+te.w) {
+					dist[te.v] = dist[cv.u]+te.w;
+					pq.offer(new Vertex(te.v, dist[te.v]));
+				}
 			}
 			isVisted[cv.u] = true;
 		}
 		
 		for(int i = 1; i <= V; ++i) {
-			if(vertex[i].w != MAX_VALUE)
-				sb.append(vertex[i].w).append('\n');
+			if(dist[i] != MAX_VALUE)
+				sb.append(dist[i]).append('\n');
 			else
 				sb.append("INF\n");
 		}
