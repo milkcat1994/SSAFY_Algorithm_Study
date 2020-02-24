@@ -10,6 +10,9 @@
 ### G3
 * Main_B_G3_1005_ACM Craft
 > * 출처 : https://www.acmicpc.net/problem/1005
+### G4
+* Main_B_G4_1062_가르침
+> * 출처 : https://www.acmicpc.net/problem/1062
 
 ## 2020-02-23
 ### G5
