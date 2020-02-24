@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-02-24
+### G3
+* Main_B_G3_1005_ACM Craft
+> * 출처 : https://www.acmicpc.net/problem/1005
+
 ## 2020-02-23
 ### G5
 * Main_B_G5_1753_최단경로
