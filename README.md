@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-02-25
+### G5
+* Main_B_G5_3055_탈출
+> * 출처 : https://www.acmicpc.net/problem/3055
+
 ## 2020-02-24
 ### G3
 * Main_B_G3_1005_ACM Craft
