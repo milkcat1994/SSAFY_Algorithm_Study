@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-25
+### G3
+* Main_B_G3_1938_통나무옮기기
+> * 출처 : https://www.acmicpc.net/problem/1938
 ### G5
 * Main_B_G5_3055_탈출
 > * 출처 : https://www.acmicpc.net/problem/3055
