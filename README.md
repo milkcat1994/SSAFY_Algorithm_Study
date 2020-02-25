@@ -10,6 +10,8 @@
 ### G5
 * Main_B_G5_3055_탈출
 > * 출처 : https://www.acmicpc.net/problem/3055
+* Main_B_G5_1726_로봇
+> * 출처 : https://www.acmicpc.net/problem/1726
 
 ## 2020-02-24
 ### G3
