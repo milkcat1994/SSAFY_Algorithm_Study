@@ -20,6 +20,9 @@
 ### G5
 * Main_B_G5_2589_보물섬
 > * 출처 : https://www.acmicpc.net/problem/2589
+### S3-S2
+* Main_B_S3,2_N과M_(1~12)
+> * 출처 : https://www.acmicpc.net/workbook/view/2052
 
 ## 2020-02-25
 ### G3
