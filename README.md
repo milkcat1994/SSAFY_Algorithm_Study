@@ -13,6 +13,8 @@
 ### G4
 * Main_B_G4_2146_다리만들기
 > * 출처 : https://www.acmicpc.net/problem/2146
+* Main_B_G4_2234_성곽
+> * 출처 : https://www.acmicpc.net/problem/2234
 
 ## 2020-02-25
 ### G3
