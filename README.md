@@ -10,6 +10,9 @@
 ### G3
 * Main_B_G3_1941_소문난칠공주
 > * 출처 : https://www.acmicpc.net/problem/1941
+### G4
+* Main_B_G4_2146_다리만들기
+> * 출처 : https://www.acmicpc.net/problem/2146
 
 ## 2020-02-25
 ### G3
