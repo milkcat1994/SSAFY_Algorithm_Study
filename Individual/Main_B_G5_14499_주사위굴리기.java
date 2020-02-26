@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  */
 
 //출처 : https://www.acmicpc.net/problem/14499
-public class Main_B_G5_4499_주사위굴리기 {
+public class Main_B_G5_14499_주사위굴리기 {
 	static int[][] dice = new int[4][3];
 	static int[][] board;
 	static int ROW,COL;
