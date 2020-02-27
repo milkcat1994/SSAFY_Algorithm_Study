@@ -9,7 +9,10 @@
 ## 2020-02-27
 ### G2
 * Main_B_G2_12100_2048(Easy)
-> * 출처 : Main_B_G2_12100_2048Easy
+> * 출처 : https://www.acmicpc.net/problem/12100
+### G3
+* Main_B_G3_17472_다리만들기2
+> * 출처 : https://www.acmicpc.net/problem/17472
 ### 200P
 * Solution_SWE_2115_벌꿀채취
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu
