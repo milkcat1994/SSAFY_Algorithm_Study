@@ -27,7 +27,6 @@ public class Solution_SWE_1952_수영장 {
 		monthWork = new int[13];	//1~12월
 		int T = Integer.parseInt(br.readLine());
 		for(int t = 1; t <= T; ++t) {
-			minResult = Integer.MAX_VALUE;
 			st = new StringTokenizer(br.readLine(), " ");
 			for(int i = 0; i < 4; ++i)
 				needMoney[i] = Integer.parseInt(st.nextToken());
@@ -35,6 +34,7 @@ public class Solution_SWE_1952_수영장 {
 			for(int i = 1; i < 13; ++i)
 				monthWork[i] = Integer.parseInt(st.nextToken());
 			
+			minResult = needMoney[YEAR];
 			dfs(1, 0);
 			sb.append('#').append(t).append(' ').append(minResult).append('\n');
 		} //end TestCase
@@ -54,32 +54,16 @@ public class Solution_SWE_1952_수영장 {
 			for(int dir = 0; dir < 4; ++dir) {
 				switch (dir) {
 				case DAY:
+					dfs(month+1, sum+monthWork[month]*needMoney[dir]);
+					break;
 				case MONTH:
-					dfs(month+1, sum+getSum(month, dir));
+					dfs(month+1, sum+needMoney[dir]);
 					break;
-					
 				case TMONTH:
-					dfs(month+3, sum+getSum(month, dir));
-					break;
-					
-				case YEAR:
-				default:
-					dfs(month+12, sum+getSum(month, dir));
+					dfs(month+3, sum+needMoney[dir]);
 					break;
 				}
 			}
-		}
-	}
-	
-	public static int getSum(int index, int dir) {
-		switch (dir) {
-		case DAY:
-			return monthWork[index]*needMoney[dir];
-		case MONTH:
-		case TMONTH:
-		case YEAR:
-		default:
-			return needMoney[dir];
 		}
 	}
 }
