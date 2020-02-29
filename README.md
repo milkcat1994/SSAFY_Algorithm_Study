@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-02-29
+### G2
+* Main_B_G2_1079_마피아
+> * 출처 : https://www.acmicpc.net/problem/1079
 ### S4
 * Main_B_S4_1026_보물
 > * 출처 : https://www.acmicpc.net/problem/1026
