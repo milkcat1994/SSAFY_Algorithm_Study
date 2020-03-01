@@ -10,6 +10,9 @@
 ### G1
 * Main_B_G1_1103_게임
 > * 출처 : https://www.acmicpc.net/problem/1103
+### G3
+* Main_B_G3_1937_욕심쟁이판다
+> * 출처 : https://www.acmicpc.net/problem/1937
 ### S1
 * Main_B_S1_1074_Z
 > * 출처 : https://www.acmicpc.net/problem/1074
