@@ -13,6 +13,8 @@
 ### S1
 * Main_B_S1_1074_Z
 > * 출처 : https://www.acmicpc.net/problem/1074
+* Main_B_S1_1722_순열의순서
+> * 출처 : https://www.acmicpc.net/problem/1722
 
 ## 2020-02-29
 ### G2
