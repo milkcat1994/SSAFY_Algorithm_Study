@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-03-01
+### G1
+* Main_B_G1_1103_게임
+> * 출처 : https://www.acmicpc.net/problem/1103
 ### S1
 * Main_B_S1_1074_Z
 > * 출처 : https://www.acmicpc.net/problem/1074
