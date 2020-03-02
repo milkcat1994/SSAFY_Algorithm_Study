@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-02
+### 150P
+* Solution_SWE_4534_트리흑백색칠
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw
+
 ## 2020-03-01
 ### G1
 * Main_B_G1_1103_게임
