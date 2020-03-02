@@ -10,6 +10,9 @@
 ### 150P
 * Solution_SWE_4534_트리흑백색칠
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw
+### 100P
+* Solution_SWE_7699_수지의수지맞는여행
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG
 
 ## 2020-03-01
 ### G1
