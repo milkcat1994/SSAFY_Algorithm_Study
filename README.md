@@ -11,7 +11,7 @@
 * Solution_SWE_1907_모래성쌓기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PNx_KACIDFAUq
 ### 100P
-* Solution_SWE_7988_내전경기_ING
+* Solution_SWE_7988_내전경기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvQZmdKUoEDFASy
 
 ## 2020-03-02
