@@ -24,6 +24,9 @@
 ### 100P
 * Solution_SWE_1808_지희의고장난계산기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx
+### 100P
+* Solution_SWE_5684_운동_ING
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRxnnah2sDFAUo
 
 ## 2020-03-03
 ### 150P
