@@ -22,6 +22,9 @@
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j-qfacIEDFAUY
 * Solution_SWE_8275_햄스터
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWxQ310aOlQDFAWL
+### 100P
+* Solution_SWE_1808_지희의고장난계산기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx
 
 ## 2020-03-03
 ### 150P
