@@ -19,6 +19,9 @@
 ### 100P
 * Solution_SWE_9282_초콜릿과건포도
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j-qfacIEDFAUY
+* Solution_SWE_8275_햄스터
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWxQ310aOlQDFAWL
+
 
 ## 2020-03-03
 ### 150P
