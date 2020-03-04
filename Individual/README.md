@@ -8,6 +8,9 @@
 ### Individual
 
 ## 2020-03-05
+### 200P
+* Solution_SWE_2382_미생물격리
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&
 ### 100P
 * Solution_SWE_5684_운동
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRxnnah2sDFAUo
