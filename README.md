@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-03-04
+### G1
+* Main_B_G1_1194_달이차오른다가자
+> * 출처 : https://www.acmicpc.net/problem/1194
 ### S4
 * Main_B_S4_1347_미로만들기
 > * 출처 : https://www.acmicpc.net/problem/1347

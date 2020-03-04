@@ -5,8 +5,12 @@
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
+### Individual
 
 ## 2020-03-04
+### G1
+* Main_B_G1_1194_달이차오른다가자
+> * 출처 : https://www.acmicpc.net/problem/1194
 ### S4
 * Main_B_S4_1347_미로만들기
 > * 출처 : https://www.acmicpc.net/problem/1347
