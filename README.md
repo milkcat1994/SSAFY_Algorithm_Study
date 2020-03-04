@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-05
+### 100P
+* Solution_SWE_5684_운동
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRxnnah2sDFAUo
+
 ## 2020-03-04
 ### G1
 * Main_B_G1_1194_달이차오른다가자
@@ -24,9 +29,6 @@
 ### 100P
 * Solution_SWE_1808_지희의고장난계산기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx
-### 100P
-* Solution_SWE_5684_운동_ING
-> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRxnnah2sDFAUo
 
 ## 2020-03-03
 ### 150P
