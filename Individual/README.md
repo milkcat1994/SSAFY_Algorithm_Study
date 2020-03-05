@@ -9,15 +9,18 @@
 
 ## 2020-03-06
 ### 200P
-* Solution_SWE_2105_디저트카페
+* Solution_SWE_2105_디저트 카페
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu
 ### 150P
-* Solution_SWE_7396_종구의딸이름짓기
+* Solution_SWE_7396_종구의 딸이름 짓기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj
+### 100P
+* Solution_SWE_4796_의석이의 우뚝 선 산
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2h6AKBCoDFAVT
 
 ## 2020-03-05
 ### 200P
-* Solution_SWE_2382_미생물격리
+* Solution_SWE_2382_미생물 격리
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&
 ### 100P
 * Solution_SWE_5684_운동
@@ -25,7 +28,7 @@
 
 ## 2020-03-04
 ### G1
-* Main_B_G1_1194_달이차오른다가자
+* Main_B_G1_1194_달이 차오른다, 가자.
 > * 출처 : https://www.acmicpc.net/problem/1194
 ### S4
 * Main_B_S4_1347_미로만들기
@@ -34,17 +37,17 @@
 * Main_B_S5_1331_나이트투어
 > * 출처 : https://www.acmicpc.net/problem/1331
 ### 100P
-* Solution_SWE_9282_초콜릿과건포도
+* Solution_SWE_9282_초콜릿과 건포도
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j-qfacIEDFAUY
 * Solution_SWE_8275_햄스터
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWxQ310aOlQDFAWL
 ### 100P
-* Solution_SWE_1808_지희의고장난계산기
+* Solution_SWE_1808_지희의 고장난 계산기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx
 
 ## 2020-03-03
 ### 150P
-* Solution_SWE_1907_모래성쌓기
+* Solution_SWE_1907_모래성 쌓기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PNx_KACIDFAUq
 ### 100P
 * Solution_SWE_7988_내전경기
@@ -55,7 +58,7 @@
 * Solution_SWE_4534_트리흑백색칠
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6esOKOKQDFAWw
 ### 100P
-* Solution_SWE_7699_수지의수지맞는여행
+* Solution_SWE_7699_수지의 수지맞는 여행
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG
 * Solution_SWE_8382_방향전환
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP
