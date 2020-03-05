@@ -11,6 +11,9 @@
 ### 200P
 * Solution_SWE_2105_디저트카페
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu
+### 150P
+* Solution_SWE_7396_종구의딸이름짓기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWm8hNu6llcDFASj
 
 ## 2020-03-05
 ### 200P
