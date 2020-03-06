@@ -7,6 +7,9 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-03-06
+### G5
+* Main_B_G5_1600_말이되고픈원숭이
+> * 출처 : https://www.acmicpc.net/problem/1600
 ### 200P
 * Solution_SWE_2105_디저트 카페
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu
