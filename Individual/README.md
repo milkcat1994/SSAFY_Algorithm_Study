@@ -17,6 +17,9 @@
 ### G4
 * Main_B_G4_2638_치즈
 > * 출처 : https://www.acmicpc.net/problem/2638
+### S2
+* Main_B_S2_1890_점프
+> * 출처 : https://www.acmicpc.net/problem/1890
 ### 150P
 * Solution_SWE_7793_오나의여신님
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG
