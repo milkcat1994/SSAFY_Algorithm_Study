@@ -13,6 +13,9 @@
 ### G5
 * Main_B_G5_2636_치즈
 > * 출처 : https://www.acmicpc.net/problem/2636
+### G4
+* Main_B_G4_2638_치즈
+> * 출처 : https://www.acmicpc.net/problem/2638
 ### 150P
 * Solution_SWE_7793_오나의여신님
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG
@@ -40,8 +43,8 @@
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRxnnah2sDFAUo
 
 ## 2020-03-04
-### G1
-* Main_B_G1_1194_달이 차오른다, 가자.
+### P5
+* Main_B_P5_1194_달이 차오른다, 가자.
 > * 출처 : https://www.acmicpc.net/problem/1194
 ### S4
 * Main_B_S4_1347_미로만들기
