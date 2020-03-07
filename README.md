@@ -8,7 +8,7 @@
 
 ## 2020-03-07
 ### G1
-* Main_B_G1_2536_버스갈아타기_ING
+* Main_B_G1_2536_버스갈아타기
 > * 출처 : https://www.acmicpc.net/problem/2536
 
 ## 2020-03-06
