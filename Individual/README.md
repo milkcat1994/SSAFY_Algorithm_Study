@@ -14,8 +14,11 @@
 ### S1
 * Main_B_S1_1986_체스
 > * 출처 : https://www.acmicpc.net/problem/1986
-* Main_B_S1_2156_포도주시식
+* Main_B_S1_2156_포도주 시식
 > * 출처 : https://www.acmicpc.net/problem/2156
+### S2
+* Main_B_S2_2210_숫자판 점프
+> * 출처 : https://www.acmicpc.net/problem/2210
 ### 200P
 * Solution_SWE_5656_벽돌깨기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG
