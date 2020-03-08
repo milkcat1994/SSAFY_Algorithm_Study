@@ -8,6 +8,9 @@
 ### Individual
 
 ## 2020-03-08
+### S1
+* Main_B_S1_1986_체스
+> * 출처 : https://www.acmicpc.net/problem/1986
 ### 200P
 * Solution_SWE_5656_벽돌깨기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG
