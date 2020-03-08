@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-03-08
+### 200P
+* Solution_SWE_5656_벽돌깨기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG
+
 ## 2020-03-07
 ### G1
 * Main_B_G1_2536_버스갈아타기
