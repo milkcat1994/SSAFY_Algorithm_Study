@@ -8,6 +8,9 @@
 ### Individual
 
 ## 2020-03-08
+### G3
+* Main_B_G3_2931_가스관
+> * 출처 : https://www.acmicpc.net/problem/2931
 ### S1
 * Main_B_S1_1986_체스
 > * 출처 : https://www.acmicpc.net/problem/1986
