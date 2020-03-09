@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-03-09
+### S2
+* Main_B_S2_2468_안전영역
+> * 출처 : https://www.acmicpc.net/problem/2468
+
 ## 2020-03-08
 ### G3
 * Main_B_G3_2931_가스관
