@@ -6,6 +6,10 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-10
+* Solution_SWE_3378_스타일리쉬 들여쓰기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ
+
 ## 2020-03-09
 ### S2
 * Main_B_S2_2468_안전영역
