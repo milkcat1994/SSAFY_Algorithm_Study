@@ -8,8 +8,11 @@
 ### Individual
 
 ## 2020-03-10
+# 100P
 * Solution_SWE_3378_스타일리쉬 들여쓰기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ
+* Solution_SWE_1868_파핑파핑 지뢰찾기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc
 
 ## 2020-03-09
 ### S2
