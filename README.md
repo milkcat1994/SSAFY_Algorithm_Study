@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-11
+# S2
+* Main_B_S2_2606_바이러스
+> * 출처 : https://www.acmicpc.net/problem/2606
+
 ## 2020-03-10
 # 200P
 * Solution_SWE_4012_요리사
