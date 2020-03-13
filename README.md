@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-13
+# 100P
+* Solution_SWE_5987_달리기
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWaJ4g86WA4DFAUQ
+
 ## 2020-03-12
 # G1
 * Main_B_G1_1019_책페이지
