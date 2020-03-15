@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-15
+# 100P
+* Solution_SWE_7194_화섭이의 미생물 배양
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&
+
 ## 2020-03-14
 # 100P
 * Solution_SWE_5604_구간합
