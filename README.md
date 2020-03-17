@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-17
+# G2
+* Main_B_G2_3197_백조의호수
+> * 출처 : https://www.acmicpc.net/problem/3197
+
 ## 2020-03-15
 # 100P
 * Solution_SWE_7194_화섭이의 미생물 배양
