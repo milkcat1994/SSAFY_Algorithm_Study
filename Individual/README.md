@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-03-18
+# S1
+* Main_B_S1_2283_영역구하기
+> * 출처 : https://www.acmicpc.net/problem/2283
+
 ## 2020-03-17
 # G2
 * Main_B_G2_3197_백조의호수
