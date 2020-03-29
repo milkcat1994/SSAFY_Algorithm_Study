@@ -6,6 +6,14 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-03-28
+# B1
+* Main_B_B1_2839_설탕배달
+> * 출처 : https://www.acmicpc.net/problem/2839
+# G4
+* Main_B_G4_1707_이분그래프
+> * 출처 : https://www.acmicpc.net/problem/1707
+
 ## 2020-03-18
 # S1
 * Main_B_S1_2283_영역구하기
