@@ -8,53 +8,53 @@
 ### Individual
 
 ## 2020-03-28
-# B1
+### B1
 * Main_B_B1_2839_설탕배달
 > * 출처 : https://www.acmicpc.net/problem/2839
-# G4
+### G4
 * Main_B_G4_1707_이분그래프
 > * 출처 : https://www.acmicpc.net/problem/1707
 
 ## 2020-03-18
-# S1
+### S1
 * Main_B_S1_2283_영역구하기
 > * 출처 : https://www.acmicpc.net/problem/2283
 
 ## 2020-03-17
-# G2
+### G2
 * Main_B_G2_3197_백조의호수
 > * 출처 : https://www.acmicpc.net/problem/3197
 
 ## 2020-03-15
-# 100P
+### 100P
 * Solution_SWE_7194_화섭이의 미생물 배양
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&
 
 ## 2020-03-14
-# 100P
+### 100P
 * Solution_SWE_5604_구간합
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo&
 
 ## 2020-03-13
-# 100P
+### 100P
 * Solution_SWE_5987_달리기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWaJ4g86WA4DFAUQ
 
 ## 2020-03-12
-# G1
+### G1
 * Main_B_G1_1019_책페이지
 > * 출처 : https://www.acmicpc.net/problem/1019
 
 ## 2020-03-11
-# S2
+### S2
 * Main_B_S2_2606_바이러스
 > * 출처 : https://www.acmicpc.net/problem/2606
 
 ## 2020-03-10
-# 200P
+### 200P
 * Solution_SWE_4012_요리사
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH
-# 100P
+### 100P
 * Solution_SWE_3378_스타일리쉬 들여쓰기
 > * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWD3nB5q3T0DFAUZ
 * Solution_SWE_1868_파핑파핑 지뢰찾기
