@@ -6,6 +6,14 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-04-02
+### 100P
+* Solution_SWE_6719_성수의 프로그래밍 강좌 시청
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7sgDatsMDFAUh
+### 50P
+* Solution_SWE_9760_Poker Game
+> * 출처 : https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXEN3aEKDrsDFAVX
+
 ## 2020-03-28
 ### B1
 * Main_B_B1_2839_설탕배달
