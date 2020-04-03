@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-04-03
+### 100P
+* Solution_SWE_9659_다항식 계산
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXCjsn0KJzcDFAX0
+
 ## 2020-04-02
 ### 100P
 * Solution_SWE_6719_성수의 프로그래밍 강좌 시청
