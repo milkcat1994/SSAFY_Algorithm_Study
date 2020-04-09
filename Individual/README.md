@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-04-09
+### G4
+* Main_B_G4_1197_최소 스패닝 트리
+> * 출처 : https://www.acmicpc.net/problem/1197
+
 ## 2020-04-03
 ### 100P
 * Solution_SWE_9659_다항식 계산
