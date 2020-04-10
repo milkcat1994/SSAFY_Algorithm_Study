@@ -11,6 +11,9 @@
 ### G3
 * Main_B_G3_16916_부분 문자열
 > * 출처 : https://www.acmicpc.net/problem/16916
+### G2
+* Main_B_G2_1786_찾기
+> * 출처 : https://www.acmicpc.net/problem/1786
 
 ## 2020-04-09
 ### G4
