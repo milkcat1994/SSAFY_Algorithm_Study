@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-04-10
+### G3
+* Main_B_G3_16916_부분 문자열
+> * 출처 : https://www.acmicpc.net/problem/16916
+
 ## 2020-04-09
 ### G4
 * Main_B_G4_1197_최소 스패닝 트리
