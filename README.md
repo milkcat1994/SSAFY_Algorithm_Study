@@ -6,6 +6,12 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-04-14
+### G4
+* Main_B_G4_4386_별자리 만들기_Kruskal
+* Main_B_G4_4386_별자리 만들기_Prim
+> * 출처 : https://www.acmicpc.net/problem/4386
+
 ## 2020-04-10
 ### G3
 * Main_B_G3_16916_부분 문자열
