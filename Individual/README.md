@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 2020-04-16
+### S3
+* Main_B_S3_11727_2xn타일링2
+> * 출처 : https://www.acmicpc.net/problem/11727
+
 ## 2020-04-14
 ### G4
 * Main_B_G4_4386_별자리 만들기_Kruskal
