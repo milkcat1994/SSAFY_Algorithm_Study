@@ -11,6 +11,8 @@
 ### S3
 * Main_B_S3_11727_2xn타일링2
 > * 출처 : https://www.acmicpc.net/problem/11727
+* Main_B_S3_2579_계단오르기
+> * 출처 : https://www.acmicpc.net/problem/2579
 ### G4
 * Main_B_G4_11404_플로이드
 > * 출처 : https://www.acmicpc.net/problem/11404
