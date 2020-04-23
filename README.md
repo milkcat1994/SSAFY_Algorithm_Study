@@ -6,6 +6,14 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-04-23
+### G2
+* Main_B_G2_12015_가장 긴 증가하는 부분수열2
+> * 출처 : https://www.acmicpc.net/problem/12015
+### S2
+* Main_B_S2_11053_가장 긴 증가하는 부분수열
+> * 출처 : https://www.acmicpc.net/problem/11053
+
 ## 2020-04-16
 ### S3
 * Main_B_S3_11727_2xn타일링2
