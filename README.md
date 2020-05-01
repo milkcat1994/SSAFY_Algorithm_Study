@@ -6,6 +6,14 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-04-29
+### 200P
+* Solution_SWE_5658_보물상자 비밀번호
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo
+### 100P
+* Solution_SWE_4050_재관이의 대량 할인
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN
+
 ## 2020-04-23
 ### G2
 * Main_B_G2_12015_가장 긴 증가하는 부분수열2
