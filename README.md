@@ -6,6 +6,13 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-05-01
+### 200P
+* Solution_SWE_1949_등산로조성
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq
+* Solution_SWE_4366_정식이의 은행업무
+> * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd
+
 ## 2020-04-29
 ### 200P
 * Solution_SWE_5658_보물상자 비밀번호
