@@ -10,6 +10,9 @@
 ### S3
 * Main_B_S3_6987_월드컵
 > * 출처 : https://www.acmicpc.net/problem/6987
+### G5
+* Main_B_G5_16236_아기상어_재풀이
+> * 출처 : https://www.acmicpc.net/problem/16236
 
 ## 2020-05-01
 ### 200P
