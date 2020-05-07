@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-05-07
+### S3
+* Main_B_S3_6987_월드컵
+> * 출처 : https://www.acmicpc.net/problem/6987
+
 ## 2020-05-01
 ### 200P
 * Solution_SWE_1949_등산로조성
