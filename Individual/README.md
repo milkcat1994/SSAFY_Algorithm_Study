@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 ### Individual
 
+## 202-05-13
+### G2
+* Main_B_G2_2252_줄 세우기
+> * 출처 : https://www.acmicpc.net/problem/2252
+
 ## 2020-05-07
 ### S3
 * Main_B_S3_6987_월드컵
