@@ -7,6 +7,11 @@
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
 ## 2020-10-13
+### G4
+* Main_B_G5_2470_두용액
+> * 출처 : https://www.acmicpc.net/problem/2470
+
+## 2020-10-12
 ### S4
 * Main_B_S4_10828_스택
 > * 출처 : https://www.acmicpc.net/problem/10828
