@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-10-27
+### S1
+* Main_B_S1_2178_미로탐색
+> * 출처 : https://www.acmicpc.net/problem/2178
+
 ## 2020-10-26
 ### G4
 * Main_B_G4_2661_좋은수열
