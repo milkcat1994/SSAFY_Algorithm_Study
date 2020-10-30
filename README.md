@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-10-30
+### S1
+* Main_B_S1_1932_정수삼각형
+> * 출처 : https://www.acmicpc.net/problem/1932
+
 ## 2020-10-29
 ### G4
 * Main_B_G4_2580_스도쿠
