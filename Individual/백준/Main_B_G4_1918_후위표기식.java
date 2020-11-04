@@ -15,8 +15,6 @@ public class Main_B_G4_1918_후위표기식 {
 		StringBuilder sb = new StringBuilder();
 		String str = br.readLine();
 		
-		//알파벳
-		Queue<Character> que = new LinkedList<>();
 		//기호
 		Stack<Character> stack = new Stack<>();
 		// 여는괄호, 닫는괄호
@@ -29,12 +27,10 @@ public class Main_B_G4_1918_후위표기식 {
 				break;
 				
 			case ')':
-				// 여는 괄호가 나올때 까지 stack.pop, que.poll
-				while(!que.isEmpty())
-					sb.append(que.poll());
-				while(!stack.isEmpty() && stack.peek() != '(') {
+				// 여는 괄호가 나올때 까지 stack.pop
+				while(!stack.isEmpty() && stack.peek() != '(')
 					sb.append(stack.pop());
-				}
+				
 				//여는괄호 제거
 				stack.pop();
 				break;
@@ -43,37 +39,27 @@ public class Main_B_G4_1918_후위표기식 {
 			case '+':
 			case '-':
 				//이전 등호가 *,/,+,-라면 모든것 비워야함
-				if(!stack.isEmpty() && stack.peek()!='(') {
-					while(!que.isEmpty())
-						sb.append(que.poll());
-					while(!stack.isEmpty() && stack.peek() != '(')
-						sb.append(stack.pop());
-				}
+				while(!stack.isEmpty() && stack.peek() != '(')
+					sb.append(stack.pop());
 				stack.push(str.charAt(i));
 				break;
 			// 곱셈, 나눗셈은 *,/ 라면 비워야함
 			case '*':
 			case '/':
-				if(!stack.isEmpty() && stack.peek()!='(') {
-					while(!que.isEmpty())
-						sb.append(que.poll());
-					while(!stack.isEmpty() && stack.peek() != '(' && stack.peek() != '+' && stack.peek() != '-')
-						sb.append(stack.pop());
-				}
+				while(!stack.isEmpty() && stack.peek() != '(' && stack.peek() != '+' && stack.peek() != '-')
+					sb.append(stack.pop());
 				stack.push(str.charAt(i));
 				break;
 			// 알파벳은 그냥 담을것
 			default:
-				que.offer(str.charAt(i));
+				sb.append(str.charAt(i));
 				break;
 			}
 		}
-		//안이 차있다면 모두 제거하기
-		while(!que.isEmpty())
-			sb.append(que.poll());
-		while(!stack.isEmpty() && stack.peek() != '(') {
+
+		while(!stack.isEmpty())
 			sb.append(stack.pop());
-		}
+		
 		System.out.println(sb.toString());
 	}
 }
