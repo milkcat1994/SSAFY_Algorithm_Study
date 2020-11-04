@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-11-04
+### G4
+* Main_B_G4_1918_후위표기식
+> * 출처 : https://www.acmicpc.net/problem/1918
+
 ## 2020-11-03
 ### G5
 * Main_B_G5_9177_단어섞기
