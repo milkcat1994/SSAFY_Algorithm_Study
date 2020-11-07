@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-11-08
+### G5
+* Main_B_G5_5014_스타트링크
+> * 출처 : https://www.acmicpc.net/problem/5014
+
 ## 2020-11-07
 ### G4
 * Main_B_G4_10836_여왕벌
