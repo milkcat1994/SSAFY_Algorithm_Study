@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-11-09
+### G4
+* Main_B_G4_17404_RGB거리2
+> * 출처 : https://www.acmicpc.net/problem/17404
+
 ## 2020-11-08
 ### G5
 * Main_B_G5_5014_스타트링크
