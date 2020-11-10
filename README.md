@@ -6,6 +6,11 @@
 * SWExpert의 경우 난이도로 분류한다.
 > 백준의 난이도 확인 크롬확장프로그램 : solved.ac
 
+## 2020-11-10
+### G4
+* Main_B_G4_1043_거짓말
+> * 출처 : https://www.acmicpc.net/problem/1043
+
 ## 2020-11-09
 ### G4
 * Main_B_G4_17404_RGB거리2
