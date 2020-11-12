@@ -4,7 +4,11 @@
 * Class이름 : {Solution : SWExpert, Main : 백준, 정보올림피아드}
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
-> 백준의 난이도 확인 크롬확장프로그램 : solved.ac
+
+## 2020-11-12
+### G5
+* Main_B_G5_9251_LCS
+> * 출처 : https://www.acmicpc.net/problem/9251
 
 ## 2020-11-11
 ### G4
