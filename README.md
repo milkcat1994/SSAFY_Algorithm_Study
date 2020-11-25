@@ -12,112 +12,112 @@
 
 ## 2020-11-24
 ### G4
-* Main_B_G4_1647_도시분할계획
+* [Main_B_G4_1647_도시분할계획](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1647_도시분할계획.java)
 > * 출처 : https://www.acmicpc.net/problem/1647
 
 ## 2020-11-23
 ### G5
-* Main_B_G5_11000_강의실배정
+* [Main_B_G5_11000_강의실배정](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_11000_강의실배정.java)
 > * 출처 : https://www.acmicpc.net/problem/11000
 
 ## 2020-11-22
 ### G4
-* Main_B_G4_1922_네트워크연결
+* [Main_B_G4_1922_네트워크연결](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1922_네트워크연결.java)
 > * 출처 : https://www.acmicpc.net/problem/1922
 
 ## 2020-11-21
 ### G4
-* Main_B_G4_1027_고층건물
+* [Main_B_G4_1027_고층건물](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1027_고층건물.java)
 > * 출처 : https://www.acmicpc.net/problem/1027
 
 ## 2020-11-20
 ### G5
-* Main_B_G5_2467_용액
+* [Main_B_G5_2467_용액](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_2467_용액.java)
 > * 출처 : https://www.acmicpc.net/problem/2467
 
 ## 2020-11-19
 ### G5
-* Main_B_G5_1756_피자굽기
+* [Main_B_G5_1756_피자굽기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_1756_피자굽기.java)
 > * 출처 : https://www.acmicpc.net/problem/1756
 
 ## 2020-11-18
 ### G5
-* Main_B_G4_1744_수묶기
+* [Main_B_G4_1744_수묶기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1744_수묶기.java)
 > * 출처 : https://www.acmicpc.net/problem/1744
 
 ## 2020-11-17
 ### G5
-* Main_B_G5_10026_적록색약
+* [Main_B_G5_10026_적록색약](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_10026_적록색약.java)
 > * 출처 : https://www.acmicpc.net/problem/10026
 
 ## 2020-11-16
 ### G4
-* Main_B_G4_1717_집합의표현
+* [Main_B_G4_1717_집합의표현](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1717_집합의표현.java)
 > * 출처 : https://www.acmicpc.net/problem/1717
 
 ## 2020-11-15
 ### G4
-* Main_B_G4_1987_알파벳
+* [Main_B_G4_1987_알파벳](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1987_알파벳.java)
 > * 출처 : https://www.acmicpc.net/problem/1987
 
 ## 2020-11-13
 ### G4
-* Main_B_G4_1339_단어수학
+* [Main_B_G4_1339_단어수학](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1339_단어수학.java)
 > * 출처 : https://www.acmicpc.net/problem/1339
 
 ## 2020-11-12
 ### G5
-* Main_B_G5_9251_LCS
+* [Main_B_G5_9251_LCS](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_9251_LCS.java)
 > * 출처 : https://www.acmicpc.net/problem/9251
 
 ## 2020-11-11
 ### G4
-* Main_B_G4_8980_택배
+* [Main_B_G4_8980_택배](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_8980_택배.java)
 > * 출처 : https://www.acmicpc.net/problem/8980
 
 ## 2020-11-10
 ### G4
-* Main_B_G4_1043_거짓말
+* [Main_B_G4_1043_거짓말](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1043_거짓말.java)
 > * 출처 : https://www.acmicpc.net/problem/1043
 
 ## 2020-11-09
 ### G4
-* Main_B_G4_17404_RGB거리2
+* [Main_B_G4_17404_RGB거리2](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_17404_RGB거리2.java)
 > * 출처 : https://www.acmicpc.net/problem/17404
 
 ## 2020-11-08
 ### G5
-* Main_B_G5_5014_스타트링크
+* [Main_B_G5_5014_스타트링크](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_5014_스타트링크.java)
 > * 출처 : https://www.acmicpc.net/problem/5014
 
 ## 2020-11-07
 ### G4
-* Main_B_G4_10836_여왕벌
+* [Main_B_G4_10836_여왕벌](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_10836_여왕벌.java)
 > * 출처 : https://www.acmicpc.net/problem/10836
 
 ## 2020-11-05
 ### G4
-* Main_B_G4_1976_여행가자
+* [Main_B_G4_1976_여행가자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1976_여행가자.java)
 > * 출처 : https://www.acmicpc.net/problem/1976
 
 ## 2020-11-04
 ### G4
-* Main_B_G4_1918_후위표기식
+* [Main_B_G4_1918_후위표기식](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1918_후위표기식.java)
 > * 출처 : https://www.acmicpc.net/problem/1918
 
 ## 2020-11-03
 ### G5
-* Main_B_G5_9177_단어섞기
+* [Main_B_G5_9177_단어섞기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_9177_단어섞기.java)
 > * 출처 : https://www.acmicpc.net/problem/9177
 
 ## 2020-11-02
 ### G4
-* Main_B_G4_15711_환상의짝꿍
+* [Main_B_G4_15711_환상의짝꿍](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_15711_환상의짝꿍.java)
 > * 출처 : https://www.acmicpc.net/problem/15711
 
 ## 2020-11-01
 ### G4
-* Main_B_G4_1715_카드정렬하기
+* [Main_B_G4_1715_카드정렬하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1715_카드정렬하기.java)
 > * 출처 : https://www.acmicpc.net/problem/1715
 
 ## 2020-10-31
