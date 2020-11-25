@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2020-11-25
+### G5
+* [Main_B_G5_20166_문자열지옥에빠진호석](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_20166_문자열지옥에빠진호석.java)
+> * 출처 : https://www.acmicpc.net/problem/20166
+
 ## 2020-11-24
 ### G4
 * Main_B_G4_1647_도시분할계획
