@@ -4,7 +4,7 @@
 * Class이름 : {Solution : SWExpert, Main : 백준, 정보올림피아드}
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
-Main_B_G5_2493_탑
+
 ## 2020-11-26
 ### G5
 * [Main_B_G5_2493_탑](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_2493_탑.java)
