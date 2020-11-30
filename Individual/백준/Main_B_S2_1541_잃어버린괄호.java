@@ -6,6 +6,7 @@ import java.util.StringTokenizer;
 
 /*
  * -잃어버린 괄호-
+ * 한번 음수가 나온다면 그 뒤는 모두 음수이다.
  */
 
 //출처 : https://www.acmicpc.net/problem/1541
@@ -33,33 +34,15 @@ public class Main_B_S2_1541_잃어버린괄호 {
 		
 		int size = nums.size();
 		boolean isMinus = false;
-		int tempRes=0;
 		for(int i=0; i<size; ++i) {
-			tempRes += nums.get(i);
+			if(operations.get(i) == '-')
+				isMinus = true;
 			
-			//현재 음수라면
-			if(operations.get(i) == '-') {
-				// 앞에 음수가 나왔었다면 전까지의 숫자 더해줄것.
-				if(isMinus) {
-					res -= tempRes;
-					tempRes = 0;
-				}
-				else {
-					isMinus = true;
-				}
-			}
-			else {
-				if(!isMinus) {
-					res += tempRes;
-					tempRes = 0;
-				}
-			}
+			if(isMinus)
+				res -= nums.get(i);
+			else
+				res += nums.get(i);
 		}
-		
-		if(isMinus)
-			res -= tempRes;
-		else
-			res += tempRes;
 		
 		System.out.println(res);
 	}
