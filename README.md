@@ -13,7 +13,7 @@
 ## 2020-12-02
 ### G5
 * [Main_B_G5_9252_LCS2](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_9252_LCS2.java)
-> * 출처 : https://www.acmicpc.net/problem/1541
+> * 출처 : https://www.acmicpc.net/problem/9252
 
 ## 2020-11-30
 ### S2
