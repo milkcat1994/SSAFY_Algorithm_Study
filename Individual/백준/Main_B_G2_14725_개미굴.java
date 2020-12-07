@@ -9,6 +9,9 @@ import java.util.TreeMap;
 
 /*
  * -개미굴-
+ * 입력 순서에 따라 각 먹이가 하위 먹이의 정보를 map으로 가지고 있다.
+ * TreeMap으로 저장하여 자동 오름차순으로 만들었으며,
+ * dfs를 통해 순서대로 출력하였다.
  */
 
 //출처 : https://www.acmicpc.net/problem/14725
