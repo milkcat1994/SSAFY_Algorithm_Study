@@ -6,6 +6,7 @@ import java.util.StringTokenizer;
 
 /*
  * -스타트 택시-
+ * 1H 20M
  * 목적지가 같을 수도 있음.
  * ++ 거리가 같다면 행이 작은 것, 행이 같다면 열이 작은 것.
  */
