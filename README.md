@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2020-12-11
+### G5
+* [Main_B_G5_20056_마법사상어와파이어볼](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_20056_마법사상어와파이어볼.java)
+> * 출처 : https://www.acmicpc.net/problem/20056
+
 ## 2020-12-10
 ### G3
 * [Main_B_G3_19237_어른상어](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G3_19237_어른상어.java)
