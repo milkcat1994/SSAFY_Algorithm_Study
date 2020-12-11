@@ -1,18 +1,21 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.StringTokenizer;
 
 /*
  * -마법사 상어와 파이어볼-
  * 50M
+ * List<Fire> fire 를 통해 임시로 저장 하던 것을
+ * fireCnt의 2차원 배열을 통해 정해진 횟수만큼 돌게 하여 시간, 공간 절약하도록 리펙토링
  */
 
 //출처 : https://www.acmicpc.net/problem/20056
 public class Main_B_G5_20056_마법사상어와파이어볼 {
 	static int N,M,K;
 	static Board[][] board;
+	static int[][] fireCnt;
 	
 	static int[] drow = {-1,-1,0,1,1,1,0,-1};
 	static int[] dcol = {0,1,1,1,0,-1,-1,-1};
@@ -23,6 +26,8 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 		while(--K >= 0) {
 			move();
 			
+			updateCnt();
+			
 			done();
 		}
 		
@@ -31,20 +36,15 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 	
 	// 공의 속력, 방향 대로 움직이기
 	static void move() {
-		List<Fire> list = new ArrayList<>();
-		
+		Fire fire;
 		for (int row = 0; row < N; ++row) {
 			for (int col = 0; col < N; ++col) {
-				for(Fire fire : board[row][col].list) {
-					list.add(new Fire(getPoint(fire.r, fire.s * drow[fire.d]), getPoint(fire.c, fire.s * dcol[fire.d]), fire.m, fire.s, fire.d));
+				for(int k = 0; k<fireCnt[row][col]; ++k) {
+					fire = board[row][col].que.poll();
+					fire.r = getPoint(fire.r, fire.s * drow[fire.d]); fire.c = getPoint(fire.c, fire.s * dcol[fire.d]);
+					board[fire.r][fire.c].que.offer(new Fire(fire.r, fire.c, fire.m, fire.s, fire.d));
 				}
-				board[row][col].list.clear();
 			}
-		}
-		
-		// 움직여진 파이어볼을 정해진 판에 다시 넣기
-		for(Fire fire : list) {
-			board[fire.r][fire.c].list.add(fire);
 		}
 	}
 	
@@ -53,45 +53,60 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 		return ((rc + v) + (N * 10000)) % N;
 	}
 	
+	// 파이어볼 개수 초기화
+	static void updateCnt() {
+		for (int row = 0; row < N; ++row) {
+			for (int col = 0; col < N; ++col) {
+				fireCnt[row][col] = board[row][col].que.size();
+			}
+		}
+	}
+	
 	// 움직임 끝남
 	static void done() {
 		boolean isSame;
 		int mod, tm, ts, m, s, size;
+		Fire fire;
 		
 		for (int row = 0; row < N; ++row) {
 			for (int col = 0; col < N; ++col) {
 				isSame = true;
-				mod = -1; tm = 0; ts = 0; size=board[row][col].list.size();
-				for(Fire fire : board[row][col].list) {
-					tm+=fire.m;
-					ts+=fire.s;
-					
-					// 방향성 설정
-					if(isSame) {
-						if(mod == -1) {
-							mod = fire.d % 2;
-						}
-						else if(mod == 0) {
-							if(fire.d % 2 == 1) {
-								isSame = false;
-							}
-						}
-						else if(mod == 1) {
-							if(fire.d % 2 == 0) {
-								isSame = false;
-							}
-						}
-					}
-				}
+				mod = -1; tm = 0; ts = 0; size=fireCnt[row][col];
 				
 				// 1개 이상인 파이어볼이 있다면 나눌 것이다.
 				if(size > 1) {
-					board[row][col].list.clear();
+					for(int k=0; k<size; ++k) {
+						fire = board[row][col].que.poll();
+						tm+=fire.m;
+						ts+=fire.s;
+						
+						// 방향성 설정
+						if(isSame) {
+							if(mod == -1) {
+								mod = fire.d % 2;
+							}
+							else if(mod == 0) {
+								if(fire.d % 2 == 1) {
+									isSame = false;
+								}
+							}
+							else if(mod == 1) {
+								if(fire.d % 2 == 0) {
+									isSame = false;
+								}
+							}
+						}
+					}
+				
 					m = tm/5; s = ts/size;
 					if(m != 0) {
 						for(int d = isSame ? 0 : 1; d<8; d+=2) {
-							board[row][col].list.add(new Fire(row, col, m, s, d));
+							board[row][col].que.offer(new Fire(row, col, m, s, d));
 						}
+						fireCnt[row][col] = 4;
+					}
+					else {
+						fireCnt[row][col] = 0;
 					}
 				}
 			}
@@ -103,7 +118,7 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 		int res=0;
 		for (int row = 0; row < N; ++row) {
 			for (int col = 0; col < N; ++col) {
-				for(Fire fire : board[row][col].list) {
+				for(Fire fire : board[row][col].que) {
 					res += fire.m;
 				}
 			}
@@ -118,6 +133,7 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 		M = Integer.parseInt(st.nextToken());
 		K = Integer.parseInt(st.nextToken());
 		
+		fireCnt = new int[N][N];
 		board = new Board[N][N];
 		for (int row = 0; row < N; ++row) {
 			for (int col = 0; col < N; ++col) {
@@ -133,15 +149,16 @@ public class Main_B_G5_20056_마법사상어와파이어볼 {
 			m = Integer.parseInt(st.nextToken());
 			s = Integer.parseInt(st.nextToken());
 			d = Integer.parseInt(st.nextToken());
-			board[r][c].list.add(new Fire(r, c, m, s, d));
+			board[r][c].que.offer(new Fire(r, c, m, s, d));
+			fireCnt[r][c]++;
 		}
 	}
 	
 	static class Board {
-		List<Fire> list;
+		Queue<Fire> que;
 		
 		Board(){
-			list = new ArrayList<>();
+			que = new LinkedList<>();
 		}
 	}
 	
