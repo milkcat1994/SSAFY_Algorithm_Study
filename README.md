@@ -9,6 +9,9 @@
 ### S1
 * [Main_B_S1_11047_동전0](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_11047_동전0.java)
 > * 출처 : https://www.acmicpc.net/problem/11047
+### S2
+* [Main_B_S2_1931_회의실배정](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S2_1931_회의실배정.java)
+> * 출처 : https://www.acmicpc.net/problem/1931
 
 ## 2020-12-18
 ### G3
