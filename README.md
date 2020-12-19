@@ -12,6 +12,9 @@
 ### S2
 * [Main_B_S2_1931_회의실배정](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S2_1931_회의실배정.java)
 > * 출처 : https://www.acmicpc.net/problem/1931
+### S3
+* [Main_B_S3_11399_ATM](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S3_11399_ATM.java)
+> * 출처 : https://www.acmicpc.net/problem/11399
 
 ## 2020-12-18
 ### G3
