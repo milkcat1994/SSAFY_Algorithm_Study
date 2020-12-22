@@ -9,6 +9,9 @@
 ### G4
 * [Main_B_G4_2458_키순서](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_2458_키순서.java)
 > * 출처 : https://www.acmicpc.net/problem/2458
+### G5
+* [Main_B_G5_13023_ABCDE](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_13023_ABCDE.java)
+> * 출처 : https://www.acmicpc.net/problem/13023
 
 ## 2020-12-21
 ### S1
