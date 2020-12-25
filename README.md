@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2020-12-25
+### S1
+* [Main_B_S1_1068_트리](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_1068_트리.java)
+> * 출처 : https://www.acmicpc.net/problem/1068
 ### S2
 * [Main_B_S2_11725_트리의부모찾기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S2_11725_트리의부모찾기.java)
 > * 출처 : https://www.acmicpc.net/problem/11725
