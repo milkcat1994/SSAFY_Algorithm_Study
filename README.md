@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2020-12-25
+### G4
+* [Main_B_G4_2665_미로만들기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_2665_미로만들기.java)
+> * 출처 : https://www.acmicpc.net/problem/2665
 ### S1
 * [Main_B_S1_1068_트리](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_1068_트리.java)
 > * 출처 : https://www.acmicpc.net/problem/1068
