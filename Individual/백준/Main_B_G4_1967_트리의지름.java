@@ -11,31 +11,46 @@ import java.util.StringTokenizer;
 
 //출처 : https://www.acmicpc.net/problem/1967
 public class Main_B_G4_1967_트리의지름 {
-	static int N, max;
+	static int N, max, maxLength, farVertex;
 	static boolean[] isVisited;
 	static List<Edge>[] list;
 	
 	public static void main(String[] args) throws Exception {
 		init();
+
+		findFarVertex(1, 0);
 		
-		for(int i=1; i<N+1; ++i) {
-			Arrays.fill(isVisited, false);
-			isVisited[i] = true;
-			max = Math.max(max, find(i));
-		}
-		System.out.println(max);
+		Arrays.fill(isVisited, false);
+		System.out.print(find(farVertex));
 	}
 	
+	// 지름 이루는 하나의 점에서 가장 긴 길이를 반환 하는 함수
 	static int find(int parent) {
 		int res=0;
+		
+		isVisited[parent]= true;
 		for(Edge te : list[parent]) {
 			if(isVisited[te.e]) continue;
 			
-			isVisited[te.e] = true; 
 			res = Math.max(res, find(te.e) + te.w);
 		}
 		
 		return res;
+	}
+	
+	// 임의의 점에서 갖아 먼 좌표 찾기 -> 지름을 이루는 두 점 중 하나가 나온다.
+	static void findFarVertex(int parent, int length) {
+		if(length > maxLength) {
+			maxLength = length;
+			farVertex = parent;
+		}
+		
+		isVisited[parent]= true;
+		for(Edge te : list[parent]) {
+			if(isVisited[te.e]) continue;
+			
+			findFarVertex(te.e, length + te.w);
+		}
 	}
 	
 	static void init() throws Exception {
