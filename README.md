@@ -9,6 +9,9 @@
 ### G4
 * [Main_B_G4_5427_불](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_5427_불.java)
 > * 출처 : https://www.acmicpc.net/problem/5427
+### S2
+* [Main_B_S2_1260_DFS와BFS](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S2_1260_DFS와BFS.java)
+> * 출처 : https://www.acmicpc.net/problem/1260
 
 ## 2020-12-27
 ### G4
