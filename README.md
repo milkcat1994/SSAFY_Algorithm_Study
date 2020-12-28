@@ -9,6 +9,8 @@
 ### G4
 * [Main_B_G4_5427_불](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_5427_불.java)
 > * 출처 : https://www.acmicpc.net/problem/5427
+* [Main_B_G4_1939_중량제한](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1939_중량제한.java)
+> * 출처 : https://www.acmicpc.net/problem/1939
 ### G5
 * [Main_B_G5_14226_이모티콘](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_14226_이모티콘.java)
 > * 출처 : https://www.acmicpc.net/problem/14226
