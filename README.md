@@ -9,6 +9,8 @@
 ### G1
 * [Main_B_G1_2357_최솟값과최댓값](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_2357_최솟값과최댓값.java)
 > * 출처 : https://www.acmicpc.net/problem/2357
+* [Main_B_G1_2042_구간합구하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_2042_구간합구하기.java)
+> * 출처 : https://www.acmicpc.net/problem/2042
 
 ## 2020-12-28
 ### G4
