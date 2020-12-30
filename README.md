@@ -9,6 +9,8 @@
 ### G2
 * [Main_B_G2_1766_문제집](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G2_1766_문제집.java)
 > * 출처 : https://www.acmicpc.net/problem/1766
+* [Main_B_G2_4195_친구네트워크](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G2_4195_친구네트워크.java)
+> * 출처 : https://www.acmicpc.net/problem/4195
 
 ## 2020-12-29
 ### G1
