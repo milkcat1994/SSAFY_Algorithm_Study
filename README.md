@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2020-12-30
+### G2
+* [Main_B_G2_1766_문제집](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G2_1766_문제집.java)
+> * 출처 : https://www.acmicpc.net/problem/1766
+
 ## 2020-12-29
 ### G1
 * [Main_B_G1_2357_최솟값과최댓값](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_2357_최솟값과최댓값.java)
