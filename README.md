@@ -9,6 +9,9 @@
 ### G1
 * [Main_B_G1_10868_최솟값](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_10868_최솟값.java)
 > * 출처 : https://www.acmicpc.net/problem/10868
+### G2
+* [Main_B_G2_1202_보석도둑](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G2_1202_보석도둑.java)
+> * 출처 : https://www.acmicpc.net/problem/1202
 
 ## 2020-12-30
 ### G2
