@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2021-01-01
+### P4
+* [Main_B_P4_10999_구간합구하기2](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_P4_10999_구간합구하기2.java)
+> * 출처 : https://www.acmicpc.net/problem/10999
 ### G4
 * [Main_B_G4_17298_오큰수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_17298_오큰수.java)
 > * 출처 : https://www.acmicpc.net/problem/17298
