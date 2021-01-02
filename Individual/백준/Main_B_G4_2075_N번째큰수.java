@@ -1,9 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 /*
@@ -15,12 +12,25 @@ import java.util.StringTokenizer;
 //출처 : https://www.acmicpc.net/problem/2075
 public class Main_B_G4_2075_N번째큰수 {
 	static int N;
-	static List<Integer> list;
+	static int[][] board;
+	static PriorityQueue<Point> pq;
 	
 	public static void main(String[] args) throws Exception {
 		init();
 		
-		System.out.println(list.get(N-1));
+		find();
+		
+		System.out.print(pq.poll().n);
+	}
+	
+	static void find() {
+		Point tp;
+		for(int i=0; i<N-1; ++i) {
+			tp = pq.poll();
+			if(tp.r != 0) {
+				pq.offer(new Point(tp.r-1, tp.c, board[tp.r-1][tp.c]));
+			}
+		}
 	}
 	
 	static void init() throws Exception {
@@ -28,20 +38,30 @@ public class Main_B_G4_2075_N번째큰수 {
 		StringTokenizer st;
 		N = Integer.parseInt(br.readLine());
 		
-		list = new ArrayList<>();
+		pq = new PriorityQueue<>();
+		board = new int[N][N];
 		for (int row = 0; row < N; ++row) {
 			st = new StringTokenizer(br.readLine(), " ");
 			for (int col = 0; col < N; ++col) {
-				list.add(Integer.parseInt(st.nextToken()));
+				board[row][col] = Integer.parseInt(st.nextToken());
+				if(row == N-1)
+					pq.offer(new Point(row, col, board[row][col]));
 			}
 		}
+	}
+	
+	static class Point implements Comparable<Point>{
+		int r,c,n;
 		
-		Collections.sort(list, new Comparator<Integer>() {
-			@Override
-			public int compare(Integer o1, Integer o2) {
-				return o2-o1;
-			}
-		});
-		
+		Point(int r, int c, int n){
+			this.r = r;
+			this.c = c;
+			this.n = n;
+		}
+
+		@Override
+		public int compareTo(Point o) {
+			return o.n - this.n;
+		}
 	}
 }
