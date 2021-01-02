@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-01-02
+### G4
+* [Main_B_G4_2075_N번째큰수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_2075_N번째큰수.java)
+> * 출처 : https://www.acmicpc.net/problem/2075
+
 ## 2021-01-01
 ### P4
 * [Main_B_P4_10999_구간합구하기2](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_P4_10999_구간합구하기2.java)
