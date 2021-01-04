@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2021-01-04
+### S3
+* [Main_B_S3_1874_스택수열](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S3_1874_스택수열.java)
+> * 출처 : https://www.acmicpc.net/problem/1874
 ### S4
 * [Main_B_S4_9012_괄호](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S4_9012_괄호.java)
 > * 출처 : https://www.acmicpc.net/problem/9012
