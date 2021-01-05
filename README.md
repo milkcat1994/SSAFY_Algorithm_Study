@@ -15,6 +15,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12903
 * [Solution_P_L1_12906_같은숫자는싫어](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12906_같은숫자는싫어.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12906
+* [Solution_P_L1_12910_나누어떨어지는숫자배열](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12910_나누어떨어지는숫자배열.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12910
 
 ## 2021-01-04
 ### S3
