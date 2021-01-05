@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12912
 * [Solution_P_L1_12901_2016년](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12901_2016년.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12901
+* [Solution_P_L1_12903_가운데글자가져오기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12903_가운데글자가져오기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12903
 
 ## 2021-01-04
 ### S3
