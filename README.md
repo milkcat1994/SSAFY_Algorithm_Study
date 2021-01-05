@@ -1,9 +1,14 @@
 # SSAFY_Algorithm_Study
 ## 파일 명명 규칙
 * [Class이름]/사이트or난이도/문제번호/문제이름
-* Class이름 : {Solution : SWExpert, Main : 백준, 정보올림피아드}
-* 사이트 : {J : 정보올림피아드, B : 백준}
+* Class이름 : {Solution : SWExpert, Programmers}, {Main : 백준, 정보올림피아드}
+* 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
+
+## 2021-01-05
+### L1
+* [Solution_P_L1_12912_두정수사이의합](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Solution_P_L1_12912_두정수사이의합.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12912
 
 ## 2021-01-04
 ### S3
