@@ -15,6 +15,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12917
 * [Solution_P_L1_12918_문자열다루기기본](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12918_문자열다루기기본.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12918
+* [Solution_P_L1_12919_서울에서김서방찾기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12919_서울에서김서방찾기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12919
 
 ## 2021-01-05
 ### L1
