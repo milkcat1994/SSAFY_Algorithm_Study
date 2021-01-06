@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-01-06
+### L1
+* [Solution_P_L1_12915_문자열내마음대로정렬하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12915_문자열내마음대로정렬하기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12915
+
 ## 2021-01-05
 ### L1
 * [Solution_P_L1_12912_두정수사이의합](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12912_두정수사이의합.js)
