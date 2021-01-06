@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12915
 * [Solution_P_L1_12916_문자열내p와y의개수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12916_문자열내p와y의개수.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12916
+* [Solution_P_L1_12917_문자열내림차순으로배치하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12917_문자열내림차순으로배치하기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12917
 
 ## 2021-01-05
 ### L1
