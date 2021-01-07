@@ -7,9 +7,8 @@ function solution(n) {
     for(var i=1; i<=half; i++){
         if(n % i == 0){
             answer+=i;
-            if(i != n/i)
-                answer+=n/i;
         }
     }
-    return answer;
+    i--;
+    return (i === n/i) ? answer-i : answer;
 }
