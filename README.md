@@ -9,6 +9,8 @@
 ### L1
 * [Solution_P_L1_12926_시저암호](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12926_시저암호.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12926
+* [Solution_P_L1_12928_약수의합](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12928_약수의합.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12928
 
 ## 2021-01-06
 ### L1
