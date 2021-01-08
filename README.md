@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2021-01-08
+### G5
+* [Main_B_G5_10216_CountCircleGroups](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G5_10216_CountCircleGroups.java)
+> * 출처 : https://www.acmicpc.net/problem/10216
 ### L1
 * [Solution_P_L1_12930_이상한문자만들기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12930_이상한문자만들기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12930
