@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12930
 * [Solution_P_L1_12931_자릿수더하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12931_자릿수더하기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12931
+* [Solution_P_L1_12932_자연수뒤집어배열로만들기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12932_자연수뒤집어배열로만들기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12932
 
 ## 2021-01-07
 ### L1
