@@ -4,12 +4,10 @@ function solution(n, m) {
     var gcd;
     var [min, max] = [Math.min(n, m), Math.max(n, m)];
     
-    for(var i=min; i>0; --i){
-        if(!(min%i) && !(max%i)){
-            gcd = i;
-            break;
-        }
+    function getGcd(a, b){
+        return b % a ? getGcd(b%a, a): a;
     }
-    
+
+    gcd = getGcd(min, max);
     return [gcd, n*m/gcd];
 }
