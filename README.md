@@ -15,6 +15,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12943
 * [Solution_P_L1_12944_평균구하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12944_평균구하기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12944
+* [Solution_P_L1_12947_하샤드수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12947_하샤드수.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12947
 
 ## 2021-01-08
 ### G5
