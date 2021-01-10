@@ -9,6 +9,8 @@
 ### L1
 * [Solution_P_L1_12937_짝수와홀수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12937_짝수와홀수.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12937
+* [Solution_P_L1_12940_최대공약수와최소공배수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12940_최대공약수와최소공배수.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12940
 
 ## 2021-01-08
 ### G5
