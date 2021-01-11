@@ -9,7 +9,8 @@ function solution(answers) {
     var cnts = [];
     
     members.map((arr) => {
-        cnts.push(check(answers, arr));
+        let size = arr.length;
+        cnts.push(answers.filter((num, idx) => num === arr[idx%size]).length);
     });
     
     let max = Math.max(...cnts);
@@ -18,16 +19,4 @@ function solution(answers) {
     })
     
     return answer;
-}
-
-function check(answer, member){
-    let size = member.length;
-    let res = 0;
-    
-    answer.map((num, idx) => {
-        if(num == member[idx%size])
-            res++;
-    })
-    
-    return res;
 }
