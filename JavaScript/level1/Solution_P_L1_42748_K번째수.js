@@ -2,8 +2,8 @@
 
 function solution(array, commands) {
     var answer = [];
-    commands.map((arr) => {
-        answer.push(array.slice(arr[0]-1, arr[1]).sort((a,b) => a-b)[arr[2]-1]);
+    commands.map(([from, to, k]) => {
+        answer.push(array.slice(from-1, to).sort((cur, next) => cur - next)[k-1]);
     })
     return answer;
 }
