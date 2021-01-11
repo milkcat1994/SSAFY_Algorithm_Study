@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12948
 * [Solution_P_L1_12950_행렬의덧셈](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12950_행렬의덧셈.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12950
+* [Solution_P_L1_12954_x만큼간격이있는n개의숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12954_x만큼간격이있는n개의숫자.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12954
 
 ## 2021-01-10
 ### L1
