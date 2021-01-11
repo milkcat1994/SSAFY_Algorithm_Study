@@ -19,6 +19,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42748
 * [Solution_P_L1_42840_모의고사](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_42840_모의고사.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42840
+* [Solution_P_L1_42862_체육복](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_42862_체육복.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42862
 
 ## 2021-01-10
 ### L1
