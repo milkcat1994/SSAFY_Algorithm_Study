@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-01-13
+### G3
+* [Main_B_G3_11049_행렬곱셈순서](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G3_11049_행렬곱셈순서.java)
+> * 출처 : https://www.acmicpc.net/problem/11049
+
 ## 2021-01-12
 ### G3
 * [Main_B_G3_11066_파일합치기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G3_11066_파일합치기.java)
