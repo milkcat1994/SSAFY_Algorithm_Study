@@ -12,6 +12,8 @@
 ### L1
 * [Solution_P_L1_68644_두개뽑아서더하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_68644_두개뽑아서더하기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/68644
+* [Solution_P_L1_68935_3진법뒤집기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_68935_3진법뒤집기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/68935
 
 ## 2021-03-02
 ### G5
