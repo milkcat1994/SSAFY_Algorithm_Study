@@ -9,6 +9,9 @@
 ### S1
 * [Main_B_S1_1927_최소힙](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_1927_최소힙.java)
 > * 출처 : https://www.acmicpc.net/problem/1927
+### L1
+* [Solution_P_L1_68644_두개뽑아서더하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_68644_두개뽑아서더하기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/68644
 
 ## 2021-03-02
 ### G5
