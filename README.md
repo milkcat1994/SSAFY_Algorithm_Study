@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-03-04
+### L1
+* [Solution_P_L1_12982_예산](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_12982_예산.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12982
+
 ## 2021-03-03
 ### S1
 * [Main_B_S1_1927_최소힙](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_1927_최소힙.java)
