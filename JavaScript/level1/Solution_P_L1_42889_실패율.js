@@ -12,18 +12,10 @@ function solution(N, stages) {
 
     var userNum = userLength;
     for(var stageNum=1; stageNum<=N; stageNum++) {
-        if(stagesCountArr[stageNum] === 0){
-            answerObjArr.push({
-                stageNum : stageNum,
-                failRate : 0
-            })
-        }
-        else{
-            answerObjArr.push({
-                stageNum : stageNum,
-                failRate : (stagesCountArr[stageNum]/userNum)
-            })
-        }
+        answerObjArr.push({
+            stageNum : stageNum,
+            failRate : (stagesCountArr[stageNum]/userNum)
+        })
         userNum -= stagesCountArr[stageNum];
     }
 
