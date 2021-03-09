@@ -4,10 +4,13 @@
 * Class이름 : {Solution : SWExpert, Programmers}, {Main : 백준, 정보올림피아드}
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
+
 ## 2021-03-09
 ### L1
 * [Solution_P_L1_70128_내적](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_70128_내적.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/70128
+* [Solution_P_L1_67256_키패드누르기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_67256_키패드누르기.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/67256
 
 ## 2021-03-06
 ### L1
