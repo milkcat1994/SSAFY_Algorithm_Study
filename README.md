@@ -9,6 +9,8 @@
 ### L2
 * [Solution_P_L2_12899_124나라의숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12899_124나라의숫자.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12899
+* [Solution_P_L2_42583_다리를지나는트럭](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42583_다리를지나는트럭.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42583
 ### L1
 * [Solution_P_L1_70128_내적](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_70128_내적.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/70128
