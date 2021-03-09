@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/70128
 * [Solution_P_L1_67256_키패드누르기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_67256_키패드누르기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/67256
+* [Solution_P_L1_64061_크레인인형뽑기게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_64061_크레인인형뽑기게임.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/64061
 
 ## 2021-03-06
 ### L1
