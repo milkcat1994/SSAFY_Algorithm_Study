@@ -13,6 +13,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42746
 * [Solution_P_L2_60057_문자열압축](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_60057_문자열압축.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/60057
+* [Solution_P_L2_42747_H-Index](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42747_H-Index.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42747
 
 ## 2021-03-09
 ### L2
