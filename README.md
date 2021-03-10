@@ -11,6 +11,8 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42883
 * [Solution_P_L2_42746_가장큰수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42746_가장큰수.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42746
+* [Solution_P_L2_60057_문자열압축](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_60057_문자열압축.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/60057
 
 ## 2021-03-09
 ### L2
