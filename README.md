@@ -9,6 +9,8 @@
 ### L2
 * [Solution_P_L2_12909_올바른괄호](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12909_올바른괄호.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12909
+* [Solution_P_L2_42860_조이스틱](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42860_조이스틱.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42860
 
 ## 2021-03-10
 ### L2
