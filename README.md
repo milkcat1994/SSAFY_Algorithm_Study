@@ -9,6 +9,8 @@
 ### L2
 * [Solution_P_L2_12911_다음큰숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12911_다음큰숫자.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12911
+* [Solution_P_L2_17687_n진수게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_17687_n진수게임.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/17687
 
 ## 2021-03-12
 ### L2
