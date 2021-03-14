@@ -9,6 +9,8 @@
 ### L2
 * [Solution_P_L2_12924_숫자의표현](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12924_숫자의표현.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12924
+* [Solution_P_L2_64065_튜플](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_64065_튜플.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/64065
 
 ## 2021-03-13
 ### L2
