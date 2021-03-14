@@ -7,41 +7,41 @@
 
 ## 2021-03-14
 ### L2
-* [Solution_P_L2_12924_숫자의표현](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12924_숫자의표현.js)
+* [Solution_P_L2_12924_숫자의표현](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_12924_숫자의표현.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12924
-* [Solution_P_L2_64065_튜플](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_64065_튜플.js)
+* [Solution_P_L2_64065_튜플](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_64065_튜플.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/64065
 
 ## 2021-03-13
 ### L2
-* [Solution_P_L2_12911_다음큰숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12911_다음큰숫자.js)
+* [Solution_P_L2_12911_다음큰숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_12911_다음큰숫자.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12911
-* [Solution_P_L2_17687_n진수게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_17687_n진수게임.js)
+* [Solution_P_L2_17687_n진수게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_17687_n진수게임.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/17687
 
 ## 2021-03-12
 ### L2
-* [Solution_P_L2_12909_올바른괄호](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12909_올바른괄호.js)
+* [Solution_P_L2_12909_올바른괄호](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_12909_올바른괄호.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12909
-* [Solution_P_L2_42860_조이스틱](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42860_조이스틱.js)
+* [Solution_P_L2_42860_조이스틱](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42860_조이스틱.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42860
 
 ## 2021-03-10
 ### L2
-* [Solution_P_L2_42883_큰수만들기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42883_큰수만들기.js)
+* [Solution_P_L2_42883_큰수만들기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42883_큰수만들기.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42883
-* [Solution_P_L2_42746_가장큰수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42746_가장큰수.js)
+* [Solution_P_L2_42746_가장큰수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42746_가장큰수.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42746
-* [Solution_P_L2_60057_문자열압축](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_60057_문자열압축.js)
+* [Solution_P_L2_60057_문자열압축](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_60057_문자열압축.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/60057
-* [Solution_P_L2_42747_H-Index](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42747_H-Index.js)
+* [Solution_P_L2_42747_H-Index](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42747_H-Index.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42747
 
 ## 2021-03-09
 ### L2
-* [Solution_P_L2_12899_124나라의숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_12899_124나라의숫자.js)
+* [Solution_P_L2_12899_124나라의숫자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_12899_124나라의숫자.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12899
-* [Solution_P_L2_42583_다리를지나는트럭](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L2_42583_다리를지나는트럭.js)
+* [Solution_P_L2_42583_다리를지나는트럭](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42583_다리를지나는트럭.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42583
 ### L1
 * [Solution_P_L1_70128_내적](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level1/Solution_P_L1_70128_내적.js)
