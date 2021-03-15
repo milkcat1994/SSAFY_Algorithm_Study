@@ -36,7 +36,7 @@ function combination(selectCnt, maxCnt, startIdx, relation, selectString){
 }
 
 function solution(relation) {
-    colCnt = relation[0].length, rowCnt=relation.length;
+    colCnt = relation[0].length; rowCnt=relation.length;
     
     for(let maxCnt=1; maxCnt<=colCnt; maxCnt++){
         combination(0, maxCnt, 0, relation, "");
