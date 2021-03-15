@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-03-15
+### L2
+* [Solution_P_L2_42890_후보키](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42890_후보키.js)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42890
+
 ## 2021-03-14
 ### L2
 * [Solution_P_L2_12924_숫자의표현](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_12924_숫자의표현.js)
