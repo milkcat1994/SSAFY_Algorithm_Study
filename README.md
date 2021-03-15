@@ -7,7 +7,8 @@
 
 ## 2021-03-15
 ### L2
-* [Solution_P_L2_42890_후보키](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42890_후보키.js)
+* [Solution_P_L2_42890_후보키_JS](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level2/Solution_P_L2_42890_후보키.js)
+* [Solution_P_L2_42890_후보키_JAVA](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_42890_후보키.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42890
 
 ## 2021-03-14
