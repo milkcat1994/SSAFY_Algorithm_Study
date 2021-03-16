@@ -5,6 +5,10 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-03-16
+### L3
+* [Solution_P_L3_42892_길찾기게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_42892_길찾기게임.java)
+
 ## 2021-03-15
 ### L3
 * [Solution_P_L3_42893_매칭점수](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level3/Solution_P_L3_42893_매칭점수.js)
