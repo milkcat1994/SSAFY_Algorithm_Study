@@ -9,6 +9,8 @@
 ### L3
 * [Solution_P_L3_42892_길찾기게임](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_42892_길찾기게임.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42892
+* [Solution_P_L3_64064_불량사용자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_64064_불량사용자.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/64064
 
 ## 2021-03-15
 ### L3
