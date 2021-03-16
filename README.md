@@ -11,6 +11,9 @@
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42892
 * [Solution_P_L3_64064_불량사용자](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_64064_불량사용자.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/64064
+### L4
+* [Solution_P_L4_42891_무지의먹방라이브](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L4_42891_무지의먹방라이브.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42891
 
 ## 2021-03-15
 ### L3
