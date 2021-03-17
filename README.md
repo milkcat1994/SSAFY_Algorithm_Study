@@ -7,7 +7,8 @@
 
 ## 2021-03-17
 ### L3
-* [Solution_P_L3_43162_네트워크](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_43162_네트워크.java)
+* [Solution_P_L3_43162_네트워크_JAVA](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_43162_네트워크.java)
+* [Solution_P_L3_43162_네트워크_JS](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/JavaScript/level3/Solution_P_L3_43162_네트워크.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/43162
 
 ## 2021-03-16
