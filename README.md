@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2021-03-23
+### L3
+* [Solution_P_L3_17676_추석트래픽](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_17676_추석트래픽.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/17676
 ### L2
 * [Solution_P_L2_49993_스킬트리](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_49993_스킬트리.js)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/49993
