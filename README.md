@@ -9,6 +9,8 @@
 ### L3
 * [Solution_P_L3_42627_디스크컨트롤러](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_42627_디스크컨트롤러.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42627
+* [Solution_P_L3_49189_가장먼노드](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_49189_가장먼노드.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/49189
 
 ## 2021-03-23
 ### L3
