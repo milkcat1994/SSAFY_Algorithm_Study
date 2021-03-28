@@ -9,6 +9,8 @@
 ### L2
 * [Solution_P_L2_72411_메뉴리뉴얼](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_72411_메뉴리뉴얼.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/72411
+* [Solution_P_L2_72412_순위검색](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_72412_순위검색.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/72412
 
 ## 2021-03-25
 ### L3
