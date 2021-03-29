@@ -2,6 +2,11 @@
  * -광고 삽입-
  * 1. 시청 시작, 종료 따른 위치 logCntArr에 찍어두기
  * 
+ * -- 수정
+ * 1. 시작, 종료 되는 위치 logCntArr에 합해주어 다음 시간에 더해질 시청자 수 계산
+ * 2. logCntArr를 전부 돌면서 해당 위치에서의 시청자수 증감 기록
+ * 3. adv를 윈도우로 두고 슬라이드 하며 총 시청자 수 기록
+ * 
  * 풀이 시간 : 1H 30M
  */
 
@@ -23,7 +28,7 @@ public class Solution_P_L3_72414_광고삽입 {
 		
 		int start,end;
 		// [0]:start / [1]:end
-		int[][] logCntArr = new int[playSize+2][2];
+		int[] logCntArr = new int[playSize+2];
 		
 		String[] logsArr, startArr,endArr;
 		for(String str : logs) {
@@ -36,37 +41,26 @@ public class Solution_P_L3_72414_광고삽입 {
 				end+=Integer.parseInt(endArr[i])*multi[i];
 			}
 			
-			logCntArr[start][0]++;
-			logCntArr[end+1][1]++;
+			logCntArr[start]++;
+			logCntArr[end]--;
+		}
+		
+		for(int i=0; i<playSize; ++i) {
+			logCntArr[i+1] += logCntArr[i];
 		}
 		
 		long tempSum=0;
-		int cnt=0;
-		int left=0, right=0;
-		cnt+=logCntArr[0][0];
-		cnt-=logCntArr[0][1];
-		for(int i=1; i<=advSize; ++i) {
-			cnt+=logCntArr[i][0];
-			cnt-=logCntArr[i][1];
-			right+= logCntArr[i-1][0] - logCntArr[i][1];
-			tempSum+=cnt;
-		}
-		
 		int endTime = playSize-advSize;
 		long maxRes=tempSum;
 		int minTime = 0;
-		for(int time=1; time<=endTime; ++time) {
-			left-=logCntArr[time-1][0];
-			left+=logCntArr[time][1];
-			
-			right+=logCntArr[time+advSize-1][0];
-			right-=logCntArr[time+advSize][1];
-			
-			tempSum+=left+right;
+		for(int time=0; time<=endTime; ++time) {
 			if(maxRes < tempSum ) {
 				maxRes = tempSum;
 				minTime=time;
 			}
+			
+			tempSum-=logCntArr[time];
+			tempSum+=logCntArr[time+advSize];
 		}
 		
 		return getTime(minTime);
