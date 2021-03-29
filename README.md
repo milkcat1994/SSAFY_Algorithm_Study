@@ -9,6 +9,8 @@
 ### L3
 * [Solution_P_L3_72413_합승택시요금](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_72413_합승택시요금.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/72413
+* [Solution_P_L3_72414_광고삽입](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_72414_광고삽입.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/72414
 
 ## 2021-03-28
 ### L2
