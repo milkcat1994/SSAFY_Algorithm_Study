@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-03-30
+### L3
+* [Solution_P_L3_60062_외벽점검](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_60062_외벽점검.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/60062
+
 ## 2021-03-29
 ### L3
 * [Solution_P_L3_72413_합승택시요금](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_72413_합승택시요금.java)
