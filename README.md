@@ -5,6 +5,13 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-04-02
+### L2
+* [Solution_P_L2_17680_캐시](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_17680_캐시.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/17680
+* [Solution_P_L2_17684_압축](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_17684_압축.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/17684
+
 ## 2021-04-01
 ### L2
 * [Solution_P_L2_17677_뉴스클러스터링](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_17677_뉴스클러스터링.java)
