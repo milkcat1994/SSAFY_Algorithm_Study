@@ -5,6 +5,16 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-05-17
+### G4
+* [Main_B_G4_1806_부분합](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1806_부분합.java)
+> * 출처 : https://www.acmicpc.net/problem/1806
+
+## 2021-05-04
+### G4
+* [Main_B_G4_1484_다이어트](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G4_1484_다이어트.java)
+> * 출처 : https://www.acmicpc.net/problem/1484
+
 ## 2021-04-26
 ### S1
 * [Main_B_S1_1342_행운의문자열](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_S1_1342_행운의문자열.java)
