@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /*
- * -더 맵게-
+ * -[1차] 추석 트래픽-
  * 테스트 1 〉	통과 (2.48ms, 52.8MB)
  * 테스트 2 〉	통과 (63.36ms, 59MB)
  * 테스트 3 〉	통과 (62.14ms, 59.9MB)
@@ -28,7 +28,7 @@ import java.util.Arrays;
  * 풀이 시간 : 45M
  */
 
-//출처 : https://programmers.co.kr/learn/courses/30/lessons/42626
+//출처 : https://programmers.co.kr/learn/courses/30/lessons/17676
 public class Solution_P_L3_17676_추석트래픽 {
 	public int solution(String[] lines) {
 		int length = lines.length;
