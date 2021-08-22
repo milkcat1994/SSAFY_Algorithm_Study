@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-08-23
+### G1
+* [Main_B_G1_2887_행성터널](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_2887_행성터널.java)
+> * 출처 : https://www.acmicpc.net/problem/2887
+
 ## 2021-08-11
 ### G1
 * [Main_B_G1_2098_외판원순회](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G1_2098_외판원순회.java)
