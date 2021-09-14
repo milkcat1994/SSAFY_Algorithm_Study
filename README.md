@@ -13,7 +13,7 @@
 ## 2021-09-12
 ### L3
 * [Solution_P_L3_84512_모음사전](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_84512_모음사전.java)
-> * 출처 : https://www.acmicpc.net/problem/84512
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/84512
 
 ## 2021-08-23
 ### G1
@@ -28,7 +28,7 @@
 ## 2021-08-08
 ### L1
 * [Solution_P_L1_82612_부족한금액계산하기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L1_82612_부족한금액계산하기.java)
-> * 출처 : https://www.acmicpc.net/problem/12015
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/82612
 
 ## 2021-08-07
 ### G2
