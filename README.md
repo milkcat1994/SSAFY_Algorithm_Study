@@ -6,6 +6,9 @@
 * SWExpert의 경우 난이도로 분류한다.
 
 ## 2021-10-24
+### L2
+* [Solution_P_L2_86971_전력망을둘로나누기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L2_86971_전력망을둘로나누기.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/86971
 ### L1
 * [Solution_P_L1_86491_최소직사각형](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L1_86491_최소직사각형.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/86491
