@@ -5,6 +5,11 @@
 * 사이트 : {J : 정보올림피아드, B : 백준, P : 프로그래머스}
 * SWExpert의 경우 난이도로 분류한다.
 
+## 2021-10-24
+### L1
+* [Solution_P_L1_86491_최소직사각형](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L1_86491_최소직사각형.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/86491
+
 ## 2021-09-19
 ### G3
 * [Main_B_G3_10942_팰린드롬](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/백준/Main_B_G3_10942_팰린드롬.java)
