@@ -9,6 +9,8 @@
 ### L3
 * [Solution_P_L3_87694_아이템줍기](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_87694_아이템줍기.java)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/87694
+* [Solution_P_L3_12907_거스름돈](https://github.com/milkcat1994/SSAFY_Algorithm_Study/blob/master/Individual/Programmers/Solution_P_L3_12907_거스름돈.java)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/12907
 
 ## 2021-11-01
 ### L2
